@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 12:07:23.330147
+# UPDATED: 2021-03-03 13:00:55.814962
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Hijacking 共 212 条规则重复
@@ -234,7 +234,7 @@ payload:
   - DOMAIN-SUFFIX,n0q.cn
   - DOMAIN-SUFFIX,pushcfg.com
   - DOMAIN-SUFFIX,s0n.cn
-#  与 Privacy 共 2773 条规则重复
+#  与 Privacy 共 2772 条规则重复
   - DOMAIN,log-hl-ipv6.snssdk.com
   - DOMAIN,log-lq.snssdk.com
   - DOMAIN,log-va.tiktokv.com
@@ -2775,7 +2775,6 @@ payload:
   - DOMAIN-SUFFIX,tracking.sport1.de
   - DOMAIN-SUFFIX,tracking.srv2.de
   - DOMAIN-SUFFIX,tracking.statravel.de
-  - DOMAIN-SUFFIX,tracking.target2sell.com
   - DOMAIN-SUFFIX,tracking.tchibo.de
   - DOMAIN-SUFFIX,tracking.teamskeet.com
   - DOMAIN-SUFFIX,tracking.thehut.net
@@ -3008,7 +3007,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 57102 条规则重复
+#  与 Advertising 共 57108 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -4398,6 +4397,7 @@ payload:
   - DOMAIN,aheza54.apps-1and1.com
   - DOMAIN,ahingenieriasa.com
   - DOMAIN,ahlibola.com
+  - DOMAIN,ahlstorm.com
   - DOMAIN,ahmadrabiu.com
   - DOMAIN,ahmedshow.com
   - DOMAIN,ahzhaosheng.com.cn
@@ -6650,6 +6650,7 @@ payload:
   - DOMAIN,cleanersoft.com
   - DOMAIN,cleanfile.org
   - DOMAIN,cleanfiles.net
+  - DOMAIN,cleaning.vaancreative.com
   - DOMAIN,cleanmypc.com
   - DOMAIN,cleanpcnow.com
   - DOMAIN,cleanproxy.com
@@ -6909,6 +6910,7 @@ payload:
   - DOMAIN,contactos-gay.com
   - DOMAIN,content.digicert.com
   - DOMAIN,content.joinaxxess.com
+  - DOMAIN,content.liveuniverse.com
   - DOMAIN,content.mkt922.com
   - DOMAIN,content.mkt931.com
   - DOMAIN,content.mkt932.com
@@ -6966,6 +6968,7 @@ payload:
   - DOMAIN,corehacks.com
   - DOMAIN,coreplays.com
   - DOMAIN,coreysuiter.com
+  - DOMAIN,corpadsinc.com
   - DOMAIN,corporatemg.com
   - DOMAIN,corporatesolutionsny.com
   - DOMAIN,corporatevideobusiness.com
@@ -8274,6 +8277,7 @@ payload:
   - DOMAIN,exercisedecoded.com
   - DOMAIN,exhibenfrance.com
   - DOMAIN,exhibi-club.com
+  - DOMAIN,exhibicionismo-publico.com
   - DOMAIN,exhibits4court.com
   - DOMAIN,exi8ef83z9.com
   - DOMAIN,exit.oxcash2.com
@@ -8684,6 +8688,7 @@ payload:
   - DOMAIN,flowplus.meituan.net
   - DOMAIN,flstudioflp.com
   - DOMAIN,flttracksecure.com
+  - DOMAIN,fluidads.co
   - DOMAIN,flyberianclothing.com
   - DOMAIN,flyextensions.com
   - DOMAIN,flyfusionstreaming.com
@@ -12280,6 +12285,7 @@ payload:
   - DOMAIN,mobile-redirection.com
   - DOMAIN,mobile.activeshopper.com
   - DOMAIN,mobile.beike188.com
+  - DOMAIN,mobile.bp12345.com
   - DOMAIN,mobile.onlyhookup.com
   - DOMAIN,mobile.whitelabelpros.com
   - DOMAIN,mobileactive.com
@@ -14547,7 +14553,6 @@ payload:
   - DOMAIN,s3vby.x.incapdns.net
   - DOMAIN,s62.research.de.com
   - DOMAIN,s8log.storm8.com
-  - DOMAIN,sa.api.intl.miui.com
   - DOMAIN,sabatina.com
   - DOMAIN,saber46.000webhostapp.com
   - DOMAIN,sabratravel-sd.com
@@ -15691,6 +15696,7 @@ payload:
   - DOMAIN,stephaniersaberan.com
   - DOMAIN,stephanlooney.com
   - DOMAIN,stephenbest.com
+  - DOMAIN,stephens-laughlin.com
   - DOMAIN,stepnation.com
   - DOMAIN,stevearden.com
   - DOMAIN,stevedimatteo.com
@@ -53808,7 +53814,6 @@ payload:
   - DOMAIN-SUFFIX,tracking.srv2.de
   - DOMAIN-SUFFIX,tracking.statravel.de
   - DOMAIN-SUFFIX,tracking.style24.it
-  - DOMAIN-SUFFIX,tracking.target2sell.com
   - DOMAIN-SUFFIX,tracking.tchibo.de
   - DOMAIN-SUFFIX,tracking.teamskeet.com
   - DOMAIN-SUFFIX,tracking.thehut.net
@@ -60135,7 +60140,7 @@ payload:
   - DOMAIN-SUFFIX,uflowx.com
   - DOMAIN-SUFFIX,xiaomengquan.cn
   - DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 15668 条规则重复
+#  与 AdvertisingLite 共 15669 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0d847862199.com
   - DOMAIN,0icep80f.com
@@ -60328,6 +60333,7 @@ payload:
   - DOMAIN,conds.ru
   - DOMAIN,config.unityads.unitychina.cn
   - DOMAIN,conflibred.co
+  - DOMAIN,content.liveuniverse.com
   - DOMAIN,contentcache-a.akamaihd.net
   - DOMAIN,coolmirage.com
   - DOMAIN,cope.it
@@ -60447,6 +60453,7 @@ payload:
   - DOMAIN,firehouse651.com
   - DOMAIN,flix360.com
   - DOMAIN,flowplus.meituan.net
+  - DOMAIN,fluidads.co
   - DOMAIN,foaks.com
   - DOMAIN,foastail.net
   - DOMAIN,fondazioneciampi.org
@@ -73540,7 +73547,6 @@ payload:
   - DOMAIN-SUFFIX,tracking.sport1.de
   - DOMAIN-SUFFIX,tracking.srv2.de
   - DOMAIN-SUFFIX,tracking.statravel.de
-  - DOMAIN-SUFFIX,tracking.target2sell.com
   - DOMAIN-SUFFIX,tracking.tchibo.de
   - DOMAIN-SUFFIX,tracking.teamskeet.com
   - DOMAIN-SUFFIX,tracking.thehut.net

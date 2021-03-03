@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 12:07:15.465028
+# UPDATED: 2021-03-03 13:00:47.232223
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 41771
-# DOMAIN: 21110
+# DOMAIN: 21119
 # IP-CIDR: 244
-# TOTAL: 63185
+# TOTAL: 63194
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2501,6 +2501,7 @@ payload:
   - DOMAIN,aheza54.apps-1and1.com
   - DOMAIN,ahingenieriasa.com
   - DOMAIN,ahlibola.com
+  - DOMAIN,ahlstorm.com
   - DOMAIN,ahmadrabiu.com
   - DOMAIN,ahmedshow.com
   - DOMAIN,ahzhaosheng.com.cn
@@ -5480,6 +5481,7 @@ payload:
   - DOMAIN,cleanersoft.com
   - DOMAIN,cleanfile.org
   - DOMAIN,cleanfiles.net
+  - DOMAIN,cleaning.vaancreative.com
   - DOMAIN,cleaningformac.com
   - DOMAIN,cleanmobilephone.com
   - DOMAIN,cleanmypc.com
@@ -5884,6 +5886,7 @@ payload:
   - DOMAIN,contactsin.com
   - DOMAIN,content.digicert.com
   - DOMAIN,content.joinaxxess.com
+  - DOMAIN,content.liveuniverse.com
   - DOMAIN,content.mkt922.com
   - DOMAIN,content.mkt931.com
   - DOMAIN,content.mkt932.com
@@ -5958,6 +5961,7 @@ payload:
   - DOMAIN,coreplays.com
   - DOMAIN,coreysuiter.com
   - DOMAIN,corp-assets.triplelift.com
+  - DOMAIN,corpadsinc.com
   - DOMAIN,corporatemg.com
   - DOMAIN,corporatesolutionsny.com
   - DOMAIN,corporatevideobusiness.com
@@ -7586,6 +7590,7 @@ payload:
   - DOMAIN,etl.tindersparks.com
   - DOMAIN,etnkorea.com
   - DOMAIN,etoroglobal.com
+  - DOMAIN,etracking24.de
   - DOMAIN,etrk.asus.com
   - DOMAIN,ets-grup.com
   - DOMAIN,etstemizlik.com
@@ -7692,6 +7697,7 @@ payload:
   - DOMAIN,exercisedecoded.com
   - DOMAIN,exhibenfrance.com
   - DOMAIN,exhibi-club.com
+  - DOMAIN,exhibicionismo-publico.com
   - DOMAIN,exhibits4court.com
   - DOMAIN,exi8ef83z9.com
   - DOMAIN,exit.oxcash2.com
@@ -8191,6 +8197,7 @@ payload:
   - DOMAIN,flstudioflp.com
   - DOMAIN,flttracksecure.com
   - DOMAIN,fluentmobile.com
+  - DOMAIN,fluidads.co
   - DOMAIN,flyberianclothing.com
   - DOMAIN,flyextensions.com
   - DOMAIN,flyfusionstreaming.com
@@ -12825,6 +12832,7 @@ payload:
   - DOMAIN,mobile.activeshopper.com
   - DOMAIN,mobile.beike188.com
   - DOMAIN,mobile.bitterstrawberry.org
+  - DOMAIN,mobile.bp12345.com
   - DOMAIN,mobile.onlyhookup.com
   - DOMAIN,mobile.whitelabelpros.com
   - DOMAIN,mobile333.com
@@ -17565,6 +17573,7 @@ payload:
   - DOMAIN,stephaniersaberan.com
   - DOMAIN,stephanlooney.com
   - DOMAIN,stephenbest.com
+  - DOMAIN,stephens-laughlin.com
   - DOMAIN,stepnation.com
   - DOMAIN,steptaik.net
   - DOMAIN,stevearden.com

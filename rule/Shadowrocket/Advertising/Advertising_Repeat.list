@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-03-02 12:07:24.593546
+# UPDATED: 2021-03-03 13:00:57.235949
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3076,7 +3076,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 57413 条规则重复
+#  与 AdvertisingTest 共 57419 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -4466,6 +4466,7 @@ DOMAIN,ah2.ssammn.com
 DOMAIN,aheza54.apps-1and1.com
 DOMAIN,ahingenieriasa.com
 DOMAIN,ahlibola.com
+DOMAIN,ahlstorm.com
 DOMAIN,ahmadrabiu.com
 DOMAIN,ahmedshow.com
 DOMAIN,ahzhaosheng.com.cn
@@ -6718,6 +6719,7 @@ DOMAIN,cleandownload.net
 DOMAIN,cleanersoft.com
 DOMAIN,cleanfile.org
 DOMAIN,cleanfiles.net
+DOMAIN,cleaning.vaancreative.com
 DOMAIN,cleanmypc.com
 DOMAIN,cleanpcnow.com
 DOMAIN,cleanproxy.com
@@ -6977,6 +6979,7 @@ DOMAIN,contactatonce.com
 DOMAIN,contactos-gay.com
 DOMAIN,content.digicert.com
 DOMAIN,content.joinaxxess.com
+DOMAIN,content.liveuniverse.com
 DOMAIN,content.mkt922.com
 DOMAIN,content.mkt931.com
 DOMAIN,content.mkt932.com
@@ -7034,6 +7037,7 @@ DOMAIN,coreclickhoo.com
 DOMAIN,corehacks.com
 DOMAIN,coreplays.com
 DOMAIN,coreysuiter.com
+DOMAIN,corpadsinc.com
 DOMAIN,corporatemg.com
 DOMAIN,corporatesolutionsny.com
 DOMAIN,corporatevideobusiness.com
@@ -8342,6 +8346,7 @@ DOMAIN,exelgraphics.com
 DOMAIN,exercisedecoded.com
 DOMAIN,exhibenfrance.com
 DOMAIN,exhibi-club.com
+DOMAIN,exhibicionismo-publico.com
 DOMAIN,exhibits4court.com
 DOMAIN,exi8ef83z9.com
 DOMAIN,exit.oxcash2.com
@@ -8752,6 +8757,7 @@ DOMAIN,floworldonline.com
 DOMAIN,flowplus.meituan.net
 DOMAIN,flstudioflp.com
 DOMAIN,flttracksecure.com
+DOMAIN,fluidads.co
 DOMAIN,flyberianclothing.com
 DOMAIN,flyextensions.com
 DOMAIN,flyfusionstreaming.com
@@ -12348,6 +12354,7 @@ DOMAIN,mobile-craigslist.org
 DOMAIN,mobile-redirection.com
 DOMAIN,mobile.activeshopper.com
 DOMAIN,mobile.beike188.com
+DOMAIN,mobile.bp12345.com
 DOMAIN,mobile.onlyhookup.com
 DOMAIN,mobile.whitelabelpros.com
 DOMAIN,mobileactive.com
@@ -14615,7 +14622,6 @@ DOMAIN,s32.research.de.com
 DOMAIN,s3vby.x.incapdns.net
 DOMAIN,s62.research.de.com
 DOMAIN,s8log.storm8.com
-DOMAIN,sa.api.intl.miui.com
 DOMAIN,sabatina.com
 DOMAIN,saber46.000webhostapp.com
 DOMAIN,sabratravel-sd.com
@@ -15759,6 +15765,7 @@ DOMAIN,stephanehamard.com
 DOMAIN,stephaniersaberan.com
 DOMAIN,stephanlooney.com
 DOMAIN,stephenbest.com
+DOMAIN,stephens-laughlin.com
 DOMAIN,stepnation.com
 DOMAIN,stevearden.com
 DOMAIN,stevedimatteo.com
@@ -53876,7 +53883,6 @@ DOMAIN-SUFFIX,tracking.sport1.de
 DOMAIN-SUFFIX,tracking.srv2.de
 DOMAIN-SUFFIX,tracking.statravel.de
 DOMAIN-SUFFIX,tracking.style24.it
-DOMAIN-SUFFIX,tracking.target2sell.com
 DOMAIN-SUFFIX,tracking.tchibo.de
 DOMAIN-SUFFIX,tracking.teamskeet.com
 DOMAIN-SUFFIX,tracking.thehut.net
@@ -60514,7 +60520,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,xiaomengquan.cn
 DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16351 条规则重复
+#  与 AdvertisingLite 共 16354 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0d847862199.com
 DOMAIN,0icep80f.com
@@ -60783,6 +60789,7 @@ DOMAIN,conds.ru
 DOMAIN,config.unityads.unitychina.cn
 DOMAIN,conflibred.co
 DOMAIN,connatix.com
+DOMAIN,content.liveuniverse.com
 DOMAIN,contentcache-a.akamaihd.net
 DOMAIN,coolmirage.com
 DOMAIN,cope.it
@@ -60901,6 +60908,7 @@ DOMAIN,emediate.eu
 DOMAIN,enoratraffic.com
 DOMAIN,erotop.lv
 DOMAIN,eternitymobiles.com
+DOMAIN,etracking24.de
 DOMAIN,eu.vortex-win.data.microsoft.com
 DOMAIN,euro-vertrieb.com
 DOMAIN,ex.technor.com
@@ -60930,6 +60938,7 @@ DOMAIN,finnhair.co.uk
 DOMAIN,firehouse651.com
 DOMAIN,flix360.com
 DOMAIN,flowplus.meituan.net
+DOMAIN,fluidads.co
 DOMAIN,foaks.com
 DOMAIN,foastail.net
 DOMAIN,fondazioneciampi.org
