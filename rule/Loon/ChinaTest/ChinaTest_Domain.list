@@ -1,15 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-03 13:00:45.779389
-# DOMAIN-SUFFIX: 71254
-# USER-AGENT: 33
-# DOMAIN: 85
+# UPDATED: 2021-03-07 14:22:24.793451
+# DOMAIN-SUFFIX: 71051
+# USER-AGENT: 32
+# DOMAIN: 76
 # IP-CIDR: 50
 # DOMAIN-KEYWORD: 11
 # IP-CIDR6: 4
-# GEOIP: 1
-# TOTAL: 71438
+# TOTAL: 71224
 265.com
 2mdn.net
 adservice.google.com
@@ -22,16 +21,7 @@ blzddist1-a.akamaihd.net
 c.admob.com
 c.android.clients.google.com
 cache.pack.google.com
-cdn-cn1.apple-mapkit.com
-cdn-cn2.apple-mapkit.com
-cdn-cn3.apple-mapkit.com
-cdn-cn4.apple-mapkit.com
 cdn.ampproject.org
-cdn.apple-mapkit.com
-cdn1.apple-mapkit.com
-cdn2.apple-mapkit.com
-cdn3.apple-mapkit.com
-cdn4.apple-mapkit.com
 checkin.gstatic.com
 clickserve.dartsearch.net
 client.amplifi.com
@@ -45,6 +35,7 @@ dl.google.com
 dl.l.google.com
 doubleclick.net
 download.jetbrains.com
+file-igamecj.akamaized.net
 fonts.googleapis.com
 fonts.gstatic.com
 geetest.datasink.sensorsdata.cn
@@ -55,7 +46,6 @@ googleanalytics.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-gsp4-cn.ls.apple.com.edgekey.net
 gtm.oasisfeng.com
 hospital.pku.edu.cn
 images-cn-8.ssl-images-amazon.com
@@ -66,6 +56,7 @@ menu-static.gog-statics.com
 moocs.unipus.cn
 mtalk.google.com
 ocsp.pki.goog
+officecdn-microsoft-com.akamaized.net
 opencourse.pku.edu.cn
 pagead-googlehosted.l.google.com
 pki-goog.l.google.com
@@ -82,7 +73,6 @@ ssl-google-analytics.l.google.com
 ssl.gstatic.com
 static-login.gog-statics.com
 steamcommunity-a.akamaihd.net
-store.apple.com.edgekey.net
 tesla-cdn.thron.cn
 toolbarqueries.google.com
 tools.google.com
@@ -90,8 +80,8 @@ tools.l.google.com
 translate.googleapis.com
 update.googleapis.com
 uplaypc-s-ubisoft.cdn.ubi.com
+upos-hz-mirrorakam.akamaized.net
 www-googletagmanager.l.google.com
-www.apple.com.edgekey.net
 www.gstatic.com
 www.recaptcha.net
 www4-static.gog-statics.com
@@ -99,7 +89,6 @@ www4-static.gog-statics.com
 .0-6.com
 .0-gold.net
 .00.net
-.00000wg.com
 .00042.com
 .0006266.com
 .0007.net
@@ -242,12 +231,10 @@ www4-static.gog-statics.com
 .01zhuanche.com
 .020.com
 .020.net
-.02008.com
 .020218.com
 .020banjia.net
 .020bom.com
 .020h.com
-.020icp.com
 .020job.com
 .020xueche.com
 .020yhy.com
@@ -771,7 +758,6 @@ www4-static.gog-statics.com
 .0769sx.com
 .0769yp.com
 .0771.tel
-.0771art.com
 .0771bc.com
 .0771rc.com
 .0772fang.com
@@ -825,7 +811,6 @@ www4-static.gog-statics.com
 .086jx.com
 .086kd.com
 .086mai.com
-.086xinhua.com
 .08817k.com
 .08817y.com
 .08817z.com
@@ -961,7 +946,6 @@ www4-static.gog-statics.com
 .1000tuan.com
 .1000uc.com
 .1000xuexi.com
-.1000you.com
 .1000zhu.com
 .10010.com
 .10010400.net
@@ -1049,7 +1033,6 @@ www4-static.gog-statics.com
 .100try.com
 .100txt.com
 .100txy.com
-.100uo.com
 .100wa.com
 .100weidu.com
 .100wen.cc
@@ -1281,7 +1264,6 @@ www4-static.gog-statics.com
 .117play.com
 .117show.com
 .118114.net
-.1182.org
 .1185050.com
 .1188.com
 .1189.tv
@@ -1645,7 +1627,6 @@ www4-static.gog-statics.com
 .155175.com
 .15595.com
 .155idc.com
-.1560008.com
 .156580.com
 .15666.com
 .156zy.com
@@ -1669,7 +1650,6 @@ www4-static.gog-statics.com
 .15pb.cc
 .15shu.net
 .15sing.com
-.15sjw.com
 .15solo.com
 .15tianqi.com
 .15w.com
@@ -1719,7 +1699,6 @@ www4-static.gog-statics.com
 .163jiasu.com
 .163k.cc
 .163k.com
-.163kq.com
 .163lady.com
 .163mail.com
 .163mu.com
@@ -1808,7 +1787,6 @@ www4-static.gog-statics.com
 .169qk.com
 .169t.com
 .169vv.com
-.169wz.com
 .16app.tv
 .16boke.com
 .16dy.com
@@ -2150,7 +2128,6 @@ www4-static.gog-statics.com
 .189cube.com
 .189ebuy.com
 .189key.com
-.189m.com
 .189qas.com
 .189rc.com
 .189read.com
@@ -2491,6 +2468,7 @@ www4-static.gog-statics.com
 .2088063.com
 .208xs.com
 .2095114.com
+.20biquge.com
 .20ju.com
 .20qu.com
 .20tc.com
@@ -2850,6 +2828,7 @@ www4-static.gog-statics.com
 .265660.com
 .26595.com
 .265g.com
+.265o.com
 .265ps.com
 .265tv.com
 .266555c.com
@@ -3263,7 +3242,6 @@ www4-static.gog-statics.com
 .33app.net
 .33bus.com
 .33cp.com
-.33down.com
 .33hei.com
 .33ip.com
 .33iq.com
@@ -3578,7 +3556,6 @@ www4-static.gog-statics.com
 .365ttcz.com
 .365ub.com
 .365webcall.com
-.365weifu.com
 .365wenku.com
 .365world.com
 .365xiaoyanzi.com
@@ -3608,11 +3585,11 @@ www4-static.gog-statics.com
 .3699wan.com
 .369beauty.com
 .369cc.com
-.369gc.com
 .369wenku.com
 .369xxw.com
 .369yizhi.com
 .36code.com
+.36dianping.com
 .36dj.com
 .36dsj.com
 .36hjob.com
@@ -3660,7 +3637,6 @@ www4-static.gog-statics.com
 .373yx.com
 .375263.com
 .375vip.com
-.376580.com
 .377bbs.com
 .378699.com
 .37937.com
@@ -3775,7 +3751,6 @@ www4-static.gog-statics.com
 .3ary.com
 .3avox.com
 .3b2o.com
-.3baidu.net
 .3btbtt.com
 .3btjia.com
 .3bu.com
@@ -3796,7 +3771,6 @@ www4-static.gog-statics.com
 .3d414.com
 .3d56.net
 .3d66.com
-.3d66shop.com
 .3daima.com
 .3days.cc
 .3dbuyu.com
@@ -3904,7 +3878,6 @@ www4-static.gog-statics.com
 .3mtw.com
 .3n110.com
 .3nian.com
-.3pk2.com
 .3png.com
 .3poo.com
 .3q2008.com
@@ -4257,7 +4230,6 @@ www4-static.gog-statics.com
 .4sjob.com
 .4sscrm.com
 .4thetooth.com
-.4ting43.site
 .4u4v.net
 .4usky.cc
 .4wad.com
@@ -5058,6 +5030,7 @@ www4-static.gog-statics.com
 .520yidui.com
 .520z-2.com
 .520zg.net
+.520zuowens.com
 .520zwp.com
 .52112.com
 .52114.org
@@ -5557,7 +5530,6 @@ www4-static.gog-statics.com
 .56tchr.com
 .56uo.com
 .56uu.com
-.56weiyu.com
 .56wen.com
 .56ye.net
 .56zzx.com
@@ -5565,7 +5537,6 @@ www4-static.gog-statics.com
 .57023.com
 .571400.net
 .571free.com
-.571seo.com
 .571xz.com
 .5721.net
 .5755.com
@@ -5629,6 +5600,7 @@ www4-static.gog-statics.com
 .5898yun.com
 .58abb.com
 .58bangmang.com
+.58baogao.com
 .58bo.com
 .58buy.com
 .58che.com
@@ -5714,7 +5686,6 @@ www4-static.gog-statics.com
 .591yhw.com
 .5923d.com
 .5925car.com
-.592kx.com
 .592meiju.com
 .592zn.com
 .59313313.com
@@ -6190,7 +6161,6 @@ www4-static.gog-statics.com
 .6677293.com
 .667744.com
 .6677493.com
-.66777.wang
 .66777708.com
 .6678net.com
 .66825.com
@@ -6778,7 +6748,6 @@ www4-static.gog-statics.com
 .79cha.com
 .79da.com
 .79tao.com
-.79tk.com
 .79tui.com
 .79yx.com
 .79yx.net
@@ -6960,7 +6929,6 @@ www4-static.gog-statics.com
 .802203.com
 .8038.pw
 .8044445.com
-.806699a.com
 .80710.com
 .80714.com
 .80800.vip
@@ -7413,7 +7381,6 @@ www4-static.gog-statics.com
 .8jxn.com
 .8jzw.cc
 .8jzw.com
-.8k.cm
 .8k7k.com
 .8k8z.com
 .8kana.com
@@ -8064,6 +8031,7 @@ www4-static.gog-statics.com
 .97lpw.com
 .97manhua.com
 .97ol.com
+.97riju.net
 .97rp.com
 .97ting.com
 .97ui.com
@@ -8119,7 +8087,6 @@ www4-static.gog-statics.com
 .99-ss.com
 .99.am
 .99.com
-.990.am
 .99006r.com
 .99083.com
 .9908qhb.com
@@ -8175,6 +8142,7 @@ www4-static.gog-statics.com
 .999wx.com
 .999xy.net
 .99aiji.net
+.99bdf.com
 .99biaozhun.com
 .99bill.com
 .99bo.cc
@@ -8510,7 +8478,6 @@ www4-static.gog-statics.com
 .abcve.com
 .abcxs.com
 .abcydia.com
-.abcyzf.com
 .abczw.com
 .abdstem.com
 .abe-tech.com
@@ -8740,7 +8707,6 @@ www4-static.gog-statics.com
 .adjucai.com
 .adjumo.com
 .adjuz.com
-.adkk.wang
 .adl888.com
 .adl999.com
 .adlefee.com
@@ -8850,6 +8816,7 @@ www4-static.gog-statics.com
 .aeo-cctv.com
 .aeonlifes.com
 .aepku.com
+.aera-51.com
 .aerfaying.com
 .aerochina.net
 .aeroimginfo.com
@@ -9045,7 +9012,6 @@ www4-static.gog-statics.com
 .aibaix.com
 .aibang.com
 .aibang5.com
-.aibangxiang.com
 .aibaov.com
 .aibeidian.com
 .aibing.cc
@@ -9293,7 +9259,6 @@ www4-static.gog-statics.com
 .aisee.tv
 .aiseminar.com
 .aishangcan.com
-.aishangvision.com
 .aishengji.com
 .aisila.com
 .aisino.com
@@ -9441,7 +9406,6 @@ www4-static.gog-statics.com
 .akaedu.org
 .akaifa.com
 .akaiwl.com
-.akamaized.net
 .akandou.com
 .akanmai.com
 .akaxin.com
@@ -9745,6 +9709,7 @@ www4-static.gog-statics.com
 .alpface.com
 .alpha-browser.com
 .alpha-star.org
+.alphabole.com
 .alphafun.com
 .alphassl.com
 .alrseo.com
@@ -9764,7 +9729,6 @@ www4-static.gog-statics.com
 .alyisheng.com
 .alyxz.com
 .alyzq.com
-.alzqh.com
 .am222566.com
 .am5.com
 .am774.com
@@ -9867,7 +9831,6 @@ www4-static.gog-statics.com
 .andreader.com
 .android-doc.com
 .android-studio.org
-.android100.org
 .androidchina.net
 .androidcookie.com
 .androidinvest.com
@@ -9942,7 +9905,6 @@ www4-static.gog-statics.com
 .aniu.so
 .aniu.tv
 .anix.xyz
-.anj3wy8y.icu
 .anji-auto.com
 .anji-ceva.com
 .anji-logistics.com
@@ -9974,6 +9936,7 @@ www4-static.gog-statics.com
 .anmoxiansheng.com
 .ann5.net
 .ann9.com
+.annangela.moe
 .annchain.io
 .anneishuo.com
 .annelhair.com
@@ -10340,23 +10303,6 @@ www4-static.gog-statics.com
 .appkefu.com
 .appkg.com
 .applaudads.com
-.apple-cloudkit.com
-.apple.co
-.apple.com
-.apple110.com
-.apple21.com
-.apple4.us
-.apple88.net
-.apple886.com
-.apple90.com
-.appleads-trk.com
-.appleadstech.com
-.applebl.com
-.applecun.com
-.applecx.com
-.applehunt.com
-.appletuan.com
-.applex.net
 .applicationloader.net
 .applinzi.com
 .applysquare.com
@@ -10376,7 +10322,6 @@ www4-static.gog-statics.com
 .appsina.com
 .appsodo.com
 .appstochina.com
-.appstore.com
 .apptao.com
 .appubang.com
 .appublisher.com
@@ -10610,7 +10555,6 @@ www4-static.gog-statics.com
 .asifadeaway.com
 .asilu.com
 .asimi8.com
-.asivu.com
 .askceph.com
 .askci.com
 .asketchup.com
@@ -10727,7 +10671,6 @@ www4-static.gog-statics.com
 .atq8.com
 .atriumlee.com
 .atstudy.com
-.att1999.com
 .attakids.com
 .attri.mobi
 .attyou.com
@@ -10739,7 +10682,6 @@ www4-static.gog-statics.com
 .atzjg.net
 .atzlinux.com
 .atzuche.com
-.au54150.icu
 .auak.com
 .aucanlink.com
 .aucheng.cc
@@ -10794,6 +10736,7 @@ www4-static.gog-statics.com
 .autobizreview.com
 .autocamel.com
 .autochina360.com
+.autochips.com
 .autodg.com
 .autodmp.com
 .autodry.net
@@ -10902,7 +10845,6 @@ www4-static.gog-statics.com
 .axcf.com
 .axfys.com
 .axhub.im
-.axiaogan.com
 .axjsw.com
 .axlpw.com
 .axmag.com
@@ -10938,7 +10880,6 @@ www4-static.gog-statics.com
 .aymbb.com
 .ayqy.net
 .ayrbs.com
-.ayteacher.com
 .ayuren.com
 .ayurumen.com
 .ayushan.com
@@ -11122,7 +11063,6 @@ www4-static.gog-statics.com
 .baidu.com
 .baidu.mobi
 .baidu.net
-.baidu.sb
 .baidu1.com
 .baidu120.cc
 .baidu123.com
@@ -11844,6 +11784,7 @@ www4-static.gog-statics.com
 .beautykeychina.com
 .bechangedt.com
 .bedese.com
+.bedtimepoem.com
 .beduu.com
 .bee-ji.com
 .bee-net.com
@@ -12050,7 +11991,6 @@ www4-static.gog-statics.com
 .bestbaijiu.com
 .bestcake.com
 .bestcbooks.com
-.bestchenyi.com
 .bestdjb.com
 .bestdo.com
 .bestdvd.com.tw
@@ -12134,7 +12074,6 @@ www4-static.gog-statics.com
 .bftq.com
 .bfttiao.com
 .bftv.com
-.bfvip88.com
 .bfvyun.com
 .bfw.cc
 .bfyx.com
@@ -12167,7 +12106,6 @@ www4-static.gog-statics.com
 .bh45.com
 .bh4dks.com
 .bh5.com
-.bh6688.net
 .bharatcityghaziabad.com
 .bhdata.com
 .bhdns.net
@@ -12393,6 +12331,7 @@ www4-static.gog-statics.com
 .binance.cc
 .binance.org
 .binancezh.cc
+.binancezh.co
 .binbinyl.com
 .bincailiuxue.com
 .binfen.tv
@@ -12750,6 +12689,7 @@ www4-static.gog-statics.com
 .bjhrkc.com
 .bjhscx.com
 .bjhtzsgs.com
+.bjhwbr.com
 .bjhzkq.com
 .bjiab.com
 .bjicjm.com
@@ -12772,7 +12712,6 @@ www4-static.gog-statics.com
 .bjjhwlgs.com
 .bjjihui.com
 .bjjiubo.com
-.bjjjqx.com
 .bjjkglxh.org
 .bjjnzf.com
 .bjjqzyy.com
@@ -13113,6 +13052,7 @@ www4-static.gog-statics.com
 .bm999999.com
 .bmadx.com
 .bmatch.tech
+.bmcx.com
 .bmdbr.com
 .bmdxcx.com
 .bmeol.com
@@ -13245,6 +13185,7 @@ www4-static.gog-statics.com
 .bole.me
 .bolead.com
 .bolejiang.com
+.bolelink.com
 .bolianpro.com
 .bolijob.com
 .boliquan.com
@@ -13638,6 +13579,7 @@ www4-static.gog-statics.com
 .buguangdeng.com
 .bugucn.com
 .bugutime.com
+.bugwz.com
 .bugxia.com
 .buhuiwan.com
 .buhuyo.com
@@ -13690,6 +13632,7 @@ www4-static.gog-statics.com
 .butongshe.com
 .butonly.com
 .butterapis.com
+.buxia.net
 .buxiugangban.net
 .buy-hk.org
 .buy027.com
@@ -14066,7 +14009,6 @@ www4-static.gog-statics.com
 .caihao.com
 .caihao.net
 .caihcom.com
-.caiheqing.com
 .caihezi.com
 .caihong360.com
 .caihong5g.com
@@ -14135,7 +14077,6 @@ www4-static.gog-statics.com
 .caispace.com
 .caistv.com
 .cait.com
-.caitnongkm.icu
 .caitou.com
 .caitou.net
 .caitun.com
@@ -14612,7 +14553,6 @@ www4-static.gog-statics.com
 .cctbn.com
 .cctcce.com
 .cctcct.com
-.cctczj.com
 .cctiedu.com
 .cctime.com
 .cction.com
@@ -14735,7 +14675,6 @@ www4-static.gog-statics.com
 .cdhongfu.com
 .cdhr.net
 .cdhtnews.com
-.cdhulan.com
 .cditv.tv
 .cdjingfeng.com
 .cdjinpeng.com
@@ -14762,7 +14701,6 @@ www4-static.gog-statics.com
 .cdmodernenglish.com
 .cdmoz.org
 .cdn-789.com
-.cdn-apple.com
 .cdn-baidu.net
 .cdn-cdn.net
 .cdn-chuang.com
@@ -14779,9 +14717,11 @@ www4-static.gog-statics.com
 .cdn.marketplaceimages.windowsphone.com
 .cdn.razersynapse.com
 .cdn.samsung.com
+.cdn.shanghai.nyu.edu
 .cdn.zhuji5.com
 .cdn08.com
 .cdn1-okzy.com
+.cdn11-okzy.com
 .cdn1218.com
 .cdn2-okzy.com
 .cdn20.com
@@ -14847,12 +14787,12 @@ www4-static.gog-statics.com
 .cdnvp.com
 .cdnvpn.net
 .cdnvue.com
+.cdnyt69.com
 .cdnyzdjj.com
 .cdnzhuji.com
 .cdooc.com
 .cdqcnt.com
 .cdqcp.com
-.cdqmyj.com
 .cdqph.com
 .cdqss.com
 .cdren.com
@@ -14895,6 +14835,7 @@ www4-static.gog-statics.com
 .cdyestar.com
 .cdygdq.com
 .cdyichu.com
+.cdyimei.com
 .cdyou.net
 .cdyuanhang.com
 .cdyushun.com
@@ -15078,7 +15019,6 @@ www4-static.gog-statics.com
 .cfiec.net
 .cfimg.com
 .cfjs.cc
-.cfjsol.com
 .cfkq.net
 .cflm.com
 .cfm119.com
@@ -15097,7 +15037,6 @@ www4-static.gog-statics.com
 .cfxyjy.com
 .cfyjzb.com
 .cfzb.org
-.cfzjxxw.com
 .cfzq.com
 .cg-cdn.net
 .cg-orz.com
@@ -16016,7 +15955,6 @@ www4-static.gog-statics.com
 .chinaffmpeg.com
 .chinafiber.com
 .chinafic.org
-.chinafife.com
 .chinafilm.com
 .chinafilms.net
 .chinafinancenet.com
@@ -16550,7 +16488,6 @@ www4-static.gog-statics.com
 .chnvc.com
 .chnweiyu.com
 .chocolatehappyland.com
-.chodis.com
 .chofn.com
 .chofn.net
 .chofn.org
@@ -16697,7 +16634,6 @@ www4-static.gog-statics.com
 .chuguo78.com
 .chuguofeng.com
 .chuguohao.com
-.chuhanweb.com
 .chuhoi.com
 .chuimg.com
 .chuinet.com
@@ -16883,8 +16819,6 @@ www4-static.gog-statics.com
 .ciotimes.com
 .ciotour.com
 .ciou.com
-.cioujs.com
-.ciouwap.com
 .cip.cc
 .cipgtrans.com
 .ciplawyer.com
@@ -17019,6 +16953,7 @@ www4-static.gog-statics.com
 .ckernel.org
 .ckgcjl.com
 .ckimg.com
+.ckjr001.com
 .ckkpp.com
 .ckmov.com
 .ckook.com
@@ -17643,6 +17578,7 @@ www4-static.gog-statics.com
 .cnjxol.com
 .cnjyky.com
 .cnjywl.com
+.cnjzb.com
 .cnjzjj.com
 .cnk8.com
 .cnkaile.com
@@ -18141,7 +18077,6 @@ www4-static.gog-statics.com
 .colourfulchina.com
 .colourhs.com
 .colourlife.com
-.columbiays.com
 .com-1-iqiyi.com
 .com-dy1-youku.com
 .com-h-bilibili.com
@@ -18348,13 +18283,11 @@ www4-static.gog-statics.com
 .cosimcloud.com
 .cosinoplat.com
 .cosize.com
-.cosmissy.com
 .cosmoplat.com
 .cosoar.com
 .cosplay.la
 .cosplay8.com
 .cosplayla.com
-.cosplayzone.net
 .cosyjoy.com
 .coubei.com
 .counect.com
@@ -18591,7 +18524,6 @@ www4-static.gog-statics.com
 .cqzhongxingyuan.com
 .cqzls.com
 .cqzq6.com
-.cqzqqx.com
 .cqzww.com
 .cqzyx.net
 .cqzz.net
@@ -18624,6 +18556,7 @@ www4-static.gog-statics.com
 .crcpp.org
 .crcrfsp.com
 .crct.com
+.cre.net
 .creatby.com
 .createcdigital.com
 .createpoint.qti.qualcomm.com
@@ -18726,7 +18659,6 @@ www4-static.gog-statics.com
 .cscecst.com
 .cscectc.com
 .csci.hk
-.cscoal.com
 .cscsf.com
 .cscyw.com
 .csdc.info
@@ -18841,7 +18773,6 @@ www4-static.gog-statics.com
 .cstech.ltd
 .csteelnews.com
 .cstimer.net
-.cstjyg.com
 .csto.com
 .cstong.net
 .cstriker1407.info
@@ -18856,7 +18787,6 @@ www4-static.gog-statics.com
 .cswsadlab.com
 .csxcdj.com
 .csxdf.com
-.csxiemin.com
 .csxingfutemple.org
 .csxlj.com
 .csxnews.com
@@ -19106,7 +19036,6 @@ www4-static.gog-statics.com
 .cxhl365.net
 .cxhr.com
 .cximg.com
-.cxjd888.com
 .cxkjjy.com
 .cxmld.com
 .cxmms.com
@@ -19232,7 +19161,6 @@ www4-static.gog-statics.com
 .cyysjm.com
 .cyyz.org
 .cyyzws.com
-.cyzl8.com
 .cyzm.net
 .cz-hffm.com
 .cz-toshiba.com
@@ -19309,7 +19237,6 @@ www4-static.gog-statics.com
 .czxy.com
 .czybjz.com
 .czyhq.com
-.czyidq.com
 .czyjgd.com
 .czyxba.com
 .czzcm.com
@@ -19418,6 +19345,7 @@ www4-static.gog-statics.com
 .dadaojiayuan.com
 .dadatu.co
 .dadatu5.com
+.dadatutv.com
 .dadayou.com
 .dadazw.com
 .dadclab.com
@@ -19477,6 +19405,7 @@ www4-static.gog-statics.com
 .dahouduan.com
 .dahua8.com
 .dahuaab.com
+.dahuangmei.com
 .dahuatech.cc
 .dahuatech.com
 .dahuawang.com
@@ -19747,7 +19676,6 @@ www4-static.gog-statics.com
 .dapmax.com
 .dappdiscover.com
 .dapu.com
-.dapuyu.com
 .daqi.com
 .daqianduan.com
 .daqids.com
@@ -19794,7 +19722,6 @@ www4-static.gog-statics.com
 .dasougu.com
 .dasoujia.com
 .dassm.com
-.dastann.com
 .dasung.com
 .dasungtech.com
 .dat8.cc
@@ -20182,7 +20109,6 @@ www4-static.gog-statics.com
 .dektw.com
 .delai.me
 .delanauto.com
-.deleak.com
 .deli-tools.com
 .delib2b.com
 .delibao.com
@@ -20269,7 +20195,6 @@ www4-static.gog-statics.com
 .dev996.com
 .devask.net
 .devclub.cc
-.devdiv.com
 .develenv.com
 .developer.dji.com
 .developer.htcvive.com
@@ -20509,7 +20434,6 @@ www4-static.gog-statics.com
 .dianjinghu.com
 .dianjingzhe.com
 .dianjishu.com
-.dianjoy.com
 .diankeji.com
 .diankeshequ.com
 .dianlancg.com
@@ -20617,7 +20541,6 @@ www4-static.gog-statics.com
 .diaoyuweng.com
 .diaoyuwo.com
 .diary365.net
-.diauan.net
 .diaxue.com
 .dib66.com
 .dibaotong.com
@@ -21066,7 +20989,6 @@ www4-static.gog-statics.com
 .dn580.com
 .dnbbn.com
 .dnbbs.com
-.dnbcw.com
 .dnbcw.info
 .dnbiz.com
 .dnbwg.com
@@ -21077,7 +20999,6 @@ www4-static.gog-statics.com
 .dnfly.net
 .dnfziliao.com
 .dngjxx.com
-.dngpz.com
 .dngswin10.com
 .dngswin7.com
 .dngsxitong.com
@@ -21121,8 +21042,6 @@ www4-static.gog-statics.com
 .dnsabc-b.com
 .dnsabc-f.com
 .dnsabc-g.com
-.dnsapple.com
-.dnsapple.net
 .dnsceo.net
 .dnscnc.com
 .dnscpu.com
@@ -22101,7 +22020,6 @@ www4-static.gog-statics.com
 .dyhzj.com
 .dyj.cc
 .dyjqd.com
-.dylao.com
 .dylc.com
 .dylxx.net
 .dyly.com
@@ -22292,7 +22210,6 @@ www4-static.gog-statics.com
 .e6816.com
 .e68cname.com
 .e6hd.com
-.e7560.net
 .e7890.com
 .e7e.co
 .e7e6.net
@@ -22344,7 +22261,6 @@ www4-static.gog-statics.com
 .eastall.com
 .eastbest.com
 .eastchinafair.com
-.eastcity.net
 .eastcom-sw.com
 .eastcom.com
 .eastcompeace.com
@@ -22468,7 +22384,6 @@ www4-static.gog-statics.com
 .ebook.name
 .ebook23.com
 .ebookbao.net
-.ebookdown.net
 .ebookmen.com
 .ebooks.run
 .ebopark.com
@@ -22621,7 +22536,6 @@ www4-static.gog-statics.com
 .edb-tech.com
 .edcba.com
 .eddic.net
-.eddyapple.com
 .eddycjy.com
 .ede35.com
 .edenab.com
@@ -22804,7 +22718,6 @@ www4-static.gog-statics.com
 .eff-soft.com
 .effapp.com
 .effecthub.com
-.effecttpharm.com
 .effevo.com
 .efficient.hk
 .effirst.com
@@ -22906,6 +22819,7 @@ www4-static.gog-statics.com
 .eimoney.com
 .eimway.com
 .eindex.me
+.einkcn.com
 .eintone.com
 .eiot.com
 .eipaibao.com
@@ -23097,7 +23011,6 @@ www4-static.gog-statics.com
 .ename-dns.net
 .ename.com
 .ename.net
-.enappstore.com
 .enbar.net
 .enbowang.com
 .enbrands.com
@@ -23361,6 +23274,7 @@ www4-static.gog-statics.com
 .espnlol.com
 .essaystar.com
 .essca.com
+.essclick.com
 .essdc.com
 .essemi.com
 .ession.com
@@ -23533,7 +23447,6 @@ www4-static.gog-statics.com
 .ewecha.com
 .ewei.com
 .eweiqi.com
-.ewellfund.com
 .ewenxue.net
 .ewenyan.com
 .ewide.net
@@ -23637,7 +23550,6 @@ www4-static.gog-statics.com
 .exziyuan.com
 .ey-app.com
 .ey99.com
-.eyahei.com
 .eyangguang.com
 .eyangmedia.com
 .eyao168.com
@@ -23893,6 +23805,7 @@ www4-static.gog-statics.com
 .fanging.com
 .fangjia.com
 .fangjiadp.com
+.fangjial.com
 .fangjs.com
 .fangkebao.cc
 .fangkeduo.net
@@ -24022,6 +23935,7 @@ www4-static.gog-statics.com
 .fanwen118.com
 .fanwenbaike.com
 .fanwenq.com
+.fanwenvip.com
 .fanxian.com
 .fanxiang.com
 .fanxiangds.com
@@ -24207,7 +24121,6 @@ www4-static.gog-statics.com
 .fds.so
 .fdsr.org
 .fduky.com
-.fdyhzs.com
 .fdzq.com
 .fe-cable.com
 .fe2x.cc
@@ -24553,6 +24466,7 @@ www4-static.gog-statics.com
 .fhtlw.com
 .fhyx.com
 .fhyx.hk
+.fi94.com
 .fiberhome.com
 .fiberhomegroup.com
 .fibocom.com
@@ -24616,7 +24530,6 @@ www4-static.gog-statics.com
 .finlayliu.com
 .finndy.com
 .finogeeks.com
-.finqq.com
 .fintechinchina.com
 .fintechquan.com
 .finupfriends.com
@@ -24861,7 +24774,6 @@ www4-static.gog-statics.com
 .flyzen.com
 .flyzy.com
 .flzc.com
-.flzgh.org
 .flzhan.com
 .flzsdq.com
 .fm0754.com
@@ -25072,7 +24984,6 @@ www4-static.gog-statics.com
 .fql.cc
 .fqpai.com
 .fqriji.com
-.fqseo.org
 .fqsou.com
 .fqsszx.com
 .fqxs.org
@@ -25097,7 +25008,6 @@ www4-static.gog-statics.com
 .free789.com
 .freebsdchina.org
 .freebuf.com
-.freeby30.com
 .freecls.com
 .freecplus.net
 .freed.ga
@@ -25440,7 +25350,6 @@ www4-static.gog-statics.com
 .fxdm.net
 .fxdp.com
 .fxeye.com
-.fxhqw.net
 .fxian.org
 .fxiaoke.com
 .fxingw.com
@@ -25556,7 +25465,6 @@ www4-static.gog-statics.com
 .fzsjob.com
 .fzswy.com
 .fzwcn.com
-.fzwzxx.com
 .fzxiaomange.com
 .fzxyyqd.com
 .fzyfan.com
@@ -25600,6 +25508,7 @@ www4-static.gog-statics.com
 .ga0.me
 .ga25.com
 .gaapqcloud.com
+.gabiplay.com
 .gac-capital.com
 .gac-nio.com
 .gacfca.com
@@ -25633,12 +25542,10 @@ www4-static.gog-statics.com
 .gaizhui.com
 .galaxix.com
 .galaxy-immi.com
-.galaxyappstore.com
 .galaxyasset.com
 .galaxyfont.com
 .galaxyinfo.com
 .galaxyns.net
-.galcg.com
 .galeo.me
 .galgame.cc
 .galgame.net
@@ -26251,7 +26158,6 @@ www4-static.gog-statics.com
 .geyo.com
 .geyoukj.com
 .gezhixq.net
-.gezhongshu.com
 .gezida.com
 .gezila.com
 .gf-funds.com
@@ -26317,7 +26223,6 @@ www4-static.gog-statics.com
 .ggda365.com
 .ggdawanjia.com
 .ggdoc.com
-.ggdtxt.com
 .ggemo.com
 .ggeye.com
 .ggfacai.com
@@ -26398,7 +26303,6 @@ www4-static.gog-statics.com
 .gif5.net
 .gifcool.com
 .giffox.com
-.gifguaishou.com
 .gifhome.com
 .gifhub.cc
 .gifmiao.com
@@ -26550,6 +26454,7 @@ www4-static.gog-statics.com
 .glmama.com
 .glmapper.com
 .glmei.net
+.global-download.acer.com
 .global-harbor.com
 .global-jf.com
 .globalaccentchinese.com
@@ -26745,7 +26650,6 @@ www4-static.gog-statics.com
 .gold600.com
 .gold678.com
 .gold8818.com
-.goldapple.name
 .goldav.net
 .goldbj.com
 .goldbox.vip
@@ -27055,6 +26959,7 @@ www4-static.gog-statics.com
 .grandinsight.com
 .grandomics.com
 .grapchina.org
+.graphene.tv
 .graphmovie.com
 .graueneko.xyz
 .gray-ice.com
@@ -27332,6 +27237,7 @@ www4-static.gog-statics.com
 .guardrailchina.com
 .guatian.com
 .guazhuan.com
+.guazi-apps.com
 .guazi.com
 .guazipai.com
 .guazistatic.com
@@ -27460,7 +27366,6 @@ www4-static.gog-statics.com
 .guojimami.com
 .guojinbao.com
 .guojing-tech.com
-.guojiqi.com
 .guojixumu.com
 .guojj.com
 .guojucloud.com
@@ -27572,7 +27477,6 @@ www4-static.gog-statics.com
 .gw-ec.com
 .gw2field.com
 .gw2sc.com
-.gw6c.com
 .gw8888.com
 .gwamcc.com
 .gwapi.net
@@ -27656,7 +27560,6 @@ www4-static.gog-statics.com
 .gxshuairun.com
 .gxskm.com
 .gxsky.com
-.gxssgw.com
 .gxtodo.com
 .gxtstatic.com
 .gxw98.com
@@ -27781,7 +27684,6 @@ www4-static.gog-statics.com
 .gzhhr.com
 .gzhhxxkj.com
 .gzhifi.com
-.gzhmbag.com
 .gzhmi.com
 .gzhongyu020.com
 .gzhphb.com
@@ -28057,6 +27959,7 @@ www4-static.gog-statics.com
 .haicj.com
 .haidaibao.com
 .haidaoteam.com
+.haidaotrip.com
 .haidaozhu.com
 .haidii.com
 .haidilao.com
@@ -28083,7 +27986,6 @@ www4-static.gog-statics.com
 .haijiaonet.com
 .haijincang.com
 .haijingfang.cc
-.haikejx.com
 .haiketrip.com
 .hailiangip.com
 .haililiang.com
@@ -28458,7 +28360,6 @@ www4-static.gog-statics.com
 .haokan5.com
 .haokan58.com
 .haokanbu.com
-.haokandu.com
 .haokantu.com
 .haokanzhan.com
 .haokecheng.com
@@ -28639,7 +28540,6 @@ www4-static.gog-statics.com
 .happytify.cc
 .happytrave.com
 .happyux.com
-.happywuhu.com
 .happyya.com
 .haqu.com
 .harbin-electric.com
@@ -28763,6 +28663,7 @@ www4-static.gog-statics.com
 .hbha027.com
 .hbhande.com
 .hbhaolinju.com
+.hbhcdn.com
 .hbhdhd.com
 .hbhm.net
 .hbhtcm.com
@@ -28833,7 +28734,6 @@ www4-static.gog-statics.com
 .hbqtgg.com
 .hbqyj.org
 .hbqyxy.com
-.hbqzx.com
 .hbrb.net
 .hbrbmedia.com
 .hbrc.com
@@ -29146,7 +29046,6 @@ www4-static.gog-statics.com
 .heicha.com
 .heicheng51.com
 .heidiankeji.com
-.heidiseo.com
 .heigaga.com
 .heiguang.com
 .heiguang.net
@@ -29424,7 +29323,6 @@ www4-static.gog-statics.com
 .hfbaogao.com
 .hfbeta.com
 .hfbz.com
-.hfccri.com
 .hfcn.cc
 .hfcyh.com
 .hffund.com
@@ -29930,7 +29828,6 @@ www4-static.gog-statics.com
 .hmzs.net
 .hmzx163.com
 .hn-cbec.com
-.hn-kechuang.com
 .hn-pc.com
 .hn12333.com
 .hn165.com
@@ -30203,7 +30100,6 @@ www4-static.gog-statics.com
 .hongmoka.com
 .hongniang.com
 .hongpig.com
-.hongpt.com
 .hongqi.tv
 .hongqipress.com
 .hongrenzhuang.site
@@ -30221,7 +30117,6 @@ www4-static.gog-statics.com
 .hongtu.me
 .hongtuwang.com
 .hongweipeng.com
-.hongxiang666.com
 .hongxiaolong.com
 .hongxin18.com
 .hongxinbao.com
@@ -30497,7 +30392,6 @@ www4-static.gog-statics.com
 .hrunion.org
 .hrxiongan.com
 .hrzsh.com
-.hrzsw.com
 .hrzy.cc
 .hs-ceo.com
 .hs-fe.com
@@ -30542,7 +30436,6 @@ www4-static.gog-statics.com
 .hsiii.com
 .hsjingcheng.com
 .hslj.net
-.hslycj.com
 .hsmc.com
 .hsmdb.com
 .hsmkj.net
@@ -30572,6 +30465,7 @@ www4-static.gog-statics.com
 .hswkzy.com
 .hswnjz.com
 .hsxiang.com
+.hsxxad.com
 .hsybyh.com
 .hsyjs.com
 .hsysupply.com
@@ -30752,7 +30646,6 @@ www4-static.gog-statics.com
 .hualady.com
 .hualala.com
 .hualang361.com
-.hualaoye.com
 .hualet.org
 .hualiandressing.com
 .hualianxin.com
@@ -30760,7 +30653,6 @@ www4-static.gog-statics.com
 .hualu5.com
 .hualv.com
 .huamanlou.cc
-.huamanshu.com
 .huameiyuezi.com
 .huami.com
 .huamoe.com
@@ -30833,7 +30725,6 @@ www4-static.gog-statics.com
 .huanlefish.com
 .huanleguang.com
 .huanlejia.vip
-.huanleren.com
 .huanletang.com
 .huanlj.com
 .huanmusic.com
@@ -30872,7 +30763,6 @@ www4-static.gog-statics.com
 .huarong2006.com
 .huarongdao.com
 .huaruicom.com
-.huaruishis.com
 .huaruizs.com
 .huas.co
 .huasehui.com
@@ -31249,6 +31139,7 @@ www4-static.gog-statics.com
 .huobanxietong.com
 .huobaoyx.com
 .huobi.io
+.huobiapps.com
 .huobichat.com
 .huocai.com
 .huocc.com
@@ -31404,7 +31295,6 @@ www4-static.gog-statics.com
 .hw3static.com
 .hw444.com
 .hw555.com
-.hw568.com
 .hw99.com
 .hwactive.com
 .hwadmin.com
@@ -31419,7 +31309,6 @@ www4-static.gog-statics.com
 .hwclouds.mobi
 .hwclouds.net
 .hwcrazy.com
-.hwcsales.com
 .hwdef.com
 .hweimall.com
 .hwfcw.com
@@ -31826,8 +31715,6 @@ www4-static.gog-statics.com
 .iaoyou.com
 .iapolo.com
 .iapp4me.com
-.iapple123.com
-.iappler.net
 .iapplianceweb.com
 .iapppay.com
 .iapps.im
@@ -32048,7 +31935,6 @@ www4-static.gog-statics.com
 .icidc.com
 .icifit.com
 .icignacmb.com
-.icili.net
 .icinephile.com
 .icinfo.net
 .icirculation.com
@@ -32731,7 +32617,6 @@ www4-static.gog-statics.com
 .ilucking.com
 .ilucong.net
 .ilufan.com
-.iluoshen.com
 .iluoy.com
 .iluoyang.com
 .iluqi.com
@@ -33280,6 +33165,7 @@ www4-static.gog-statics.com
 .ipinyou.com
 .ipip.net
 .ipktv.com
+.ipku.com
 .iplascloud.com
 .iplaymtg.com
 .iplaypy.com
@@ -34056,7 +33942,6 @@ www4-static.gog-statics.com
 .janpn.com
 .janrain.biz
 .janxing.com
-.jappstore.com
 .jar-world3000.com
 .jarhu.com
 .jartto.wang
@@ -34583,7 +34468,6 @@ www4-static.gog-statics.com
 .jiangxinlingdu.com
 .jiangxiol.com
 .jiangxipiaoliu.com
-.jiangxiz.com
 .jiangyuesong.me
 .jiangzi.com
 .jianhaobao.com
@@ -34765,7 +34649,6 @@ www4-static.gog-statics.com
 .jidi.com
 .jidian.im
 .jidiaose.com
-.jidubook.com
 .jidujiao.com
 .jiduu.com
 .jie0.com
@@ -35136,7 +35019,6 @@ www4-static.gog-statics.com
 .jinyi2008.com
 .jinyindao.com
 .jinyinyouhui.com
-.jinyong999.com
 .jinyongwang.com
 .jinyoukai.com
 .jinyueya.com
@@ -35511,7 +35393,6 @@ www4-static.gog-statics.com
 .jlspr.com
 .jltyjxzz.com
 .jluol.com
-.jluvip.com
 .jlwlyx.com
 .jlwubi.com
 .jlxfw.com
@@ -35645,7 +35526,6 @@ www4-static.gog-statics.com
 .jobjm.com
 .jobkoo.com
 .jobpin.com
-.jobsadspk.com
 .jobsalon.net
 .jobsdigg.com
 .jobsitechina.com
@@ -35939,6 +35819,7 @@ www4-static.gog-statics.com
 .jshuachen.com
 .jshy.com
 .jshylm.com
+.jsimg.cc
 .jsinfo.net
 .jsiteec.org
 .jsjclykz.com
@@ -35963,7 +35844,6 @@ www4-static.gog-statics.com
 .jslegal.com
 .jslottery.com
 .jslwzk.com
-.jslxo.com
 .jsly001.com
 .jsmaochang.com
 .jsmen.com
@@ -36105,6 +35985,7 @@ www4-static.gog-statics.com
 .juaq.com
 .jubaopay.com
 .jubaopeng5555.com
+.jubaozang.com
 .juben68.com
 .juben98.com
 .juc365.com
@@ -36410,7 +36291,6 @@ www4-static.gog-statics.com
 .jxbin.com
 .jxc4.com
 .jxcb.net
-.jxcc.cc
 .jxccb.com
 .jxcf.org
 .jxcsedu.com
@@ -36794,7 +36674,6 @@ www4-static.gog-statics.com
 .kandian.com
 .kandian.net
 .kandianshi.com
-.kandongman.net
 .kandshu.com
 .kandzww.com
 .kanfangapp.com
@@ -37129,7 +37008,6 @@ www4-static.gog-statics.com
 .ken.io
 .ken74.com
 .kename.com
-.kenapple.com
 .kendocn.com
 .kendryte.com
 .kenfor.com
@@ -37476,7 +37354,6 @@ www4-static.gog-statics.com
 .klandk.com
 .klarini.com
 .kldjy.com
-.klebai.com
 .klhuyan.com
 .klianfa.com
 .klicen.com
@@ -37550,7 +37427,6 @@ www4-static.gog-statics.com
 .knownsec.com
 .knowpia.com
 .knowsafe.com
-.knowsky.com
 .knowyourself.cc
 .knoya.com
 .knsheng.com
@@ -37804,7 +37680,6 @@ www4-static.gog-statics.com
 .ktlshu.vip
 .ktlstbg.com
 .ktmap.com
-.ktp8.com
 .ktpf.cc
 .ktplay.com
 .ktsee.com
@@ -38172,7 +38047,6 @@ www4-static.gog-statics.com
 .kydev.net
 .kye-erp.com
 .kyemall.com
-.kygso.com
 .kyhere.com
 .kyhs.me
 .kyidc.net
@@ -38369,7 +38243,6 @@ www4-static.gog-statics.com
 .landui.com
 .landzestate.com
 .lanecn.com
-.lanemi.com
 .lanfanapp.com
 .lanfeicastle.com
 .lanfeitech.com
@@ -39010,7 +38883,6 @@ www4-static.gog-statics.com
 .lesports.com
 .lesscss.net
 .lessisbetter.site
-.lessplay.com
 .lestu.com
 .lesun.org
 .letabc.com
@@ -39262,7 +39134,6 @@ www4-static.gog-statics.com
 .lianyezy.com
 .lianyi.com
 .lianyu.com
-.lianyuwenfeng.com
 .lianzai.com
 .lianzais.com
 .lianzhong.com
@@ -39321,7 +39192,6 @@ www4-static.gog-statics.com
 .licaimofang.com
 .licairen.net
 .licaishisina.com
-.licancan.com
 .licat.com
 .licdn.com
 .lichangtai.com
@@ -39594,6 +39464,7 @@ www4-static.gog-statics.com
 .linjunet.com
 .linjunlong.com
 .link27.com
+.link2lib.com
 .linkadsapi.com
 .linkbroad.com
 .linkchant.com
@@ -39853,7 +39724,6 @@ www4-static.gog-statics.com
 .liunian.info
 .liunianbanxia.com
 .liurang.com
-.liuscx.com
 .liushidong.com
 .liushuba.com
 .liusuping.com
@@ -40322,7 +40192,6 @@ www4-static.gog-statics.com
 .looeo.com
 .looeoo.com
 .loogfa.com
-.loogood.com
 .loohuo.com
 .look8.com
 .lookao.com
@@ -40378,7 +40247,6 @@ www4-static.gog-statics.com
 .lotpen.com
 .lotsmv.com
 .lotusair.net
-.lotuschina.net
 .lotusdata.com
 .lotuseed.com
 .lotut.com
@@ -40919,6 +40787,8 @@ www4-static.gog-statics.com
 .lx.pub
 .lx138.com
 .lx167.com
+.lx2.cok.elex.com
+.lx2.cok.elexapp.com
 .lx3.cok.elexapp.com
 .lx598.com
 .lxall.net
@@ -41611,6 +41481,7 @@ www4-static.gog-statics.com
 .mastodonhub.com
 .mastudio.org
 .masuit.com
+.masxly.com
 .masyi.com
 .mat-test.com
 .matao.com
@@ -41632,7 +41503,6 @@ www4-static.gog-statics.com
 .mattge.com
 .matthewsery.com
 .mattressmachinery.net
-.matwav.com
 .mauu.me
 .mavuz.com
 .mawei.live
@@ -41673,7 +41543,6 @@ www4-static.gog-statics.com
 .maybeiwill.me
 .maydeal.com
 .mayi.com
-.mayi258.com
 .mayiangel.com
 .mayicms.com
 .mayidui.net
@@ -41725,6 +41594,7 @@ www4-static.gog-statics.com
 .mbcwm.org
 .mbgo.com
 .mbinary.xyz
+.mbo5.com
 .mbokee.com
 .mboxone.com
 .mbsky.com
@@ -42179,7 +42049,6 @@ www4-static.gog-statics.com
 .meshang.net
 .meshiot.com
 .mesince.com
-.mesky.net
 .mesresearch.com
 .mesule.com
 .metacd.com
@@ -42255,6 +42124,7 @@ www4-static.gog-statics.com
 .mgpyh.com
 .mgsdk.com
 .mgslb.com
+.mgtv.cloud
 .mgtv.com
 .mgtvzy2.com
 .mgw999.com
@@ -42291,7 +42161,6 @@ www4-static.gog-statics.com
 .mhsf.com
 .mht.la
 .mhtclub.com
-.mhtgame.com
 .mhtml5.com
 .mhwmm.com
 .mhwy2.com
@@ -42753,7 +42622,6 @@ www4-static.gog-statics.com
 .mjjq.com
 .mjju.net
 .mjkqj.com
-.mjl388.com
 .mjlong.com
 .mjmj8.net
 .mjmjm.com
@@ -42894,7 +42762,6 @@ www4-static.gog-statics.com
 .mmuaa.com
 .mmwan.cc
 .mmww.com
-.mmxcgd.com
 .mmxiaowu.com
 .mmy.moe
 .mmybt.com
@@ -43417,7 +43284,6 @@ www4-static.gog-statics.com
 .msmartlife.com
 .msmbjp.com
 .msn.com
-.msneg.com
 .msocdn.com
 .msooso.com
 .msotu.com
@@ -43553,7 +43419,6 @@ www4-static.gog-statics.com
 .musicdu.com
 .musiceol.com
 .musicsailor.com
-.musicshq.com
 .musicsky.org
 .musicuu.com
 .musikid.com
@@ -43564,7 +43429,6 @@ www4-static.gog-statics.com
 .mutualhunter.com
 .mutuoluo.com
 .muwai.com
-.muwuya.com
 .mux5.com
 .muxin.fun
 .muxiulin.com
@@ -43607,7 +43471,6 @@ www4-static.gog-statics.com
 .mweda.com
 .mwjournalchina.com
 .mwjx.com
-.mwms4.com
 .mwrf.net
 .mwrfchina.org
 .mwrftech.com
@@ -43650,7 +43513,6 @@ www4-static.gog-statics.com
 .mxzx123.net
 .mxzzzs.com
 .my-3dcad.com
-.my-elecforu.com
 .my-host.cc
 .my-summit.com
 .my.st.com
@@ -43816,6 +43678,7 @@ www4-static.gog-statics.com
 .mylguoji.com
 .mylhospital.com
 .mylhz.com
+.mylibs.org
 .mylike.cc
 .mylike.com
 .mylikechat.com
@@ -43853,6 +43716,7 @@ www4-static.gog-statics.com
 .mypethome.com
 .mypian.com
 .mypiao.com
+.mypitaya.com
 .mypity.com
 .mypm.net
 .myprad.com
@@ -43937,7 +43801,6 @@ www4-static.gog-statics.com
 .mywll.com
 .mywood.cc
 .myxns.org
-.myxzy.com
 .myyishu.com
 .myyoudao.com
 .myywk.com
@@ -44004,7 +43867,6 @@ www4-static.gog-statics.com
 .n9cn.net
 .n9z.net
 .naadou.com
-.nadgrid.com
 .nadianshi.com
 .naew.org
 .nafanlong.com
@@ -44022,7 +43884,6 @@ www4-static.gog-statics.com
 .naicha99.com
 .naichabiao.com
 .naichagang.com
-.naifendui.com
 .naigirl.com
 .naiguo360.com
 .naikanxs.com
@@ -44599,7 +44460,6 @@ www4-static.gog-statics.com
 .nicaifu.com
 .nice-app.com
 .nice1688.com
-.nice3c.com
 .nicebing.com
 .niceboybao.com
 .nicecdn.com
@@ -44800,7 +44660,6 @@ www4-static.gog-statics.com
 .njmuseum.com
 .njqxrc.com
 .njrc365.com
-.njrsrc.com
 .njrx.cc
 .njrylab.com
 .njsd-china.org
@@ -44862,7 +44721,6 @@ www4-static.gog-statics.com
 .nmgmjml.com
 .nmgxwhz.com
 .nmgycyl.com
-.nmgzlt.com
 .nmhfw.com
 .nmhrjy.com
 .nmimi.com
@@ -44896,7 +44754,6 @@ www4-static.gog-statics.com
 .nnjioko.com
 .nnjt.com
 .nnlib.com
-.nnlmgd.com
 .nnmama.com
 .nnmutong.com
 .nnn666.com
@@ -44918,7 +44775,6 @@ www4-static.gog-statics.com
 .noahedu.com
 .noahsnail.com
 .noahteck.com
-.noarter.com
 .nobanus.com
 .nocang.com
 .nocare.com
@@ -45093,7 +44949,6 @@ www4-static.gog-statics.com
 .nstom.net
 .nsw88.com
 .nsw99.com
-.nsxia.com
 .nsxxw.com
 .nsydt.com
 .nszmz.com
@@ -45251,6 +45106,7 @@ www4-static.gog-statics.com
 .ny83.com
 .ny913.com
 .nyaa.io
+.nyaacat.com
 .nyasama.com
 .nyato.com
 .nybai.com
@@ -45548,7 +45404,6 @@ www4-static.gog-statics.com
 .oldlinux.org
 .oldpan.me
 .oldrss.com
-.oldwyk.com
 .oleony.com
 .olinone.com
 .oliver.ren
@@ -45763,7 +45618,6 @@ www4-static.gog-statics.com
 .openwrt.pro
 .openxiaoniu.com
 .openxinfo.com
-.openyue.com
 .operachina.com
 .opgtv.com
 .oplay.net
@@ -45830,6 +45684,7 @@ www4-static.gog-statics.com
 .orchome.com
 .orcode.com
 .ordosbank.com
+.orfetuz.com
 .orgcc.com
 .orgleaf.com
 .orgnitu.net
@@ -46116,6 +45971,7 @@ www4-static.gog-statics.com
 .p4vip.com
 .p512.com
 .p5w.net
+.p8games.com
 .p99998888.com
 .pa18.com
 .pa1pa.com
@@ -46141,6 +45997,7 @@ www4-static.gog-statics.com
 .pagurian.com
 .pahaoche.com
 .pahou.com
+.pahx.com
 .pahys.com
 .pai-hang-bang.com
 .paibanxia.com
@@ -46178,7 +46035,6 @@ www4-static.gog-statics.com
 .paizhe.com
 .paizi.com
 .paizishop.com
-.paktvweb.com
 .palace-international.com
 .palanceli.com
 .palm-h.com
@@ -46830,7 +46686,6 @@ www4-static.gog-statics.com
 .picc.com
 .piccamc.com
 .picchealth.com
-.piccinvest.com
 .piccjs.com
 .picooc.com
 .picosmos.net
@@ -46900,7 +46755,6 @@ www4-static.gog-statics.com
 .pingansale.com
 .pinganwj.com
 .pinganyun.com
-.pingapple.com
 .pingcap.com
 .pingcegu.com
 .pingcoo.com
@@ -47050,7 +46904,6 @@ www4-static.gog-statics.com
 .pk8765.com
 .pk9294.com
 .pk995.com
-.pkan.com
 .pkbeta.com
 .pkbigdata.com
 .pkbkok.com
@@ -47197,6 +47050,7 @@ www4-static.gog-statics.com
 .pocomagnetic.com
 .pocosite.com
 .pocsuite.org
+.poctchina.com
 .podinns.com
 .poem88.com
 .poemaster.com
@@ -47299,7 +47153,6 @@ www4-static.gog-statics.com
 .postgresqlchina.com
 .postjson.com
 .postpony.com
-.posuiji1688.com
 .potevio.com
 .potianji.net
 .potplayer.org
@@ -47308,7 +47161,6 @@ www4-static.gog-statics.com
 .poukao.com
 .pouyehm.com
 .power-bd.com
-.power-cord.org
 .power-sensor.com
 .powerbibbs.com
 .powercdn.com
@@ -47584,6 +47436,7 @@ www4-static.gog-statics.com
 .pubchn.com
 .pubg8x.com
 .publiccms.com
+.pubmed007.com
 .pubone.cc
 .pubsage.com
 .pubukeji.com
@@ -47615,6 +47468,7 @@ www4-static.gog-statics.com
 .pulsigame.com
 .pumpvip.com
 .punaide.com
+.punakong.com
 .punchbox.info
 .punchbox.org
 .puoke.com
@@ -47729,7 +47583,6 @@ www4-static.gog-statics.com
 .pythoner.com
 .pythonheidong.com
 .pythonpub.com
-.pythonsite.com
 .pythontab.com
 .pythontip.com
 .pytorchtutorial.com
@@ -48010,6 +47863,7 @@ www4-static.gog-statics.com
 .qhdae.com
 .qhdaikuan.com
 .qhdatongnews.com
+.qhdczzs.com
 .qhdfxkj.com
 .qhdgjj.com
 .qhdjcbj.com
@@ -48229,7 +48083,6 @@ www4-static.gog-statics.com
 .qichechaoren.com
 .qichegeyin.com
 .qichehot.com
-.qichepindao.net
 .qichetong.com
 .qichexin.com
 .qichezhan.net
@@ -48339,7 +48192,6 @@ www4-static.gog-statics.com
 .qiluyidian.net
 .qimaren.com
 .qimi.com
-.qimiaomh.com
 .qimiaoxiaoshuo.com
 .qiming.info
 .qiming868.com
@@ -48401,6 +48253,7 @@ www4-static.gog-statics.com
 .qingfo.com
 .qingfuyun.com
 .qingfuzaixian.com
+.qingge100.com
 .qinggl.com
 .qingguo.com
 .qinghe.tv
@@ -48538,6 +48391,7 @@ www4-static.gog-statics.com
 .qirexiaoshuo.com
 .qirui.com
 .qisbook.com
+.qishenga.com
 .qishixitong.com
 .qishixunmei.com
 .qishu.cc
@@ -48915,7 +48769,6 @@ www4-static.gog-statics.com
 .qqq.com
 .qqq.tv
 .qqqiyemail.com
-.qqqmw.com
 .qqqnm.com
 .qqqq.com
 .qqqqqqqqqqq.com
@@ -49215,7 +49068,6 @@ www4-static.gog-statics.com
 .quicksdk.net
 .quilimen.com
 .quimg.com
-.quixilica.com
 .quji.com
 .qujianpan.com
 .qujinhuo.com
@@ -49428,7 +49280,6 @@ www4-static.gog-statics.com
 .qykh2009.com
 .qykj001.com
 .qyle1.com
-.qyllq.net
 .qymgc.com
 .qynianjian.com
 .qyous.com
@@ -50004,6 +49855,7 @@ www4-static.gog-statics.com
 .riji001.com
 .rijigu.com
 .rijiwang.com
+.riju.tv
 .rijula.com
 .rijutv.com
 .rilvtong.com
@@ -50105,7 +49957,6 @@ www4-static.gog-statics.com
 .roame.net
 .robam.com
 .robei.com
-.roboby.com
 .roboo.com
 .robook.com
 .robot-china.com
@@ -50143,7 +49994,6 @@ www4-static.gog-statics.com
 .romhui.com
 .romjd.com
 .romleyuan.com
-.romman.net
 .romphone.net
 .romwang.com
 .romzhijia.net
@@ -50483,7 +50333,6 @@ www4-static.gog-statics.com
 .ruyile.com
 .ruyiqiming.com
 .ruyishi.com
-.ruyisou.net
 .ruyitianrong.com
 .ruyo.net
 .ruyu.com
@@ -50543,6 +50392,7 @@ www4-static.gog-statics.com
 .s-microsoft.com
 .s-mob.com
 .s-ns.com
+.s-on-s.com
 .s-reader.com
 .s-sgames.com
 .s-ts.net
@@ -50562,7 +50412,6 @@ www4-static.gog-statics.com
 .s60sky.com
 .s6qq.com
 .s72c.com
-.s808s.com
 .s8dj.com
 .s8j.com
 .s8x1.com
@@ -51089,7 +50938,6 @@ www4-static.gog-statics.com
 .sdhk2008.com
 .sdhoukang.com
 .sdhsie.com
-.sdhtmy.com
 .sdhtws.com
 .sdhuxiji.com
 .sdhxnykj.com
@@ -51794,7 +51642,6 @@ www4-static.gog-statics.com
 .shcngz.com
 .shcs2010.com
 .shcsdq.com
-.shcua.com
 .shcwbz.com
 .shcxzxgs.com
 .shd163.com
@@ -51849,6 +51696,7 @@ www4-static.gog-statics.com
 .shellsec.com
 .shelter-china.com
 .shelterdome.net
+.sheluyou.com
 .shelwee.com
 .shen-hua.com
 .shen1shen.com
@@ -51899,7 +51747,6 @@ www4-static.gog-statics.com
 .shengqian51.com
 .shengqianlianmeng.net
 .shengqugames.com
-.shengshidongchen.com
 .shengtaidianzi.com
 .shengtaireli.com
 .shengtian.com
@@ -51934,7 +51781,6 @@ www4-static.gog-statics.com
 .shenmamov.cc
 .shenmaxs.com
 .shenmayouxi.com
-.shenmingled.com
 .shenmo.tech
 .shenmou.com
 .shenmouren.com
@@ -52149,7 +51995,6 @@ www4-static.gog-statics.com
 .shiqu.com
 .shiqumao.com
 .shiqutech.com
-.shisanlou.com
 .shishagame.com
 .shishike.com
 .shisongya.com
@@ -52294,7 +52139,6 @@ www4-static.gog-statics.com
 .shou555.com
 .shoubanjiang.com
 .shoubiaobaojia.com
-.shoubus.com
 .shouce.ren
 .shouchaobao.vip
 .shoucheng123.com
@@ -52727,7 +52571,6 @@ www4-static.gog-statics.com
 .shzhiyingedu.com
 .shzhyx.com
 .shzixu.com
-.shzongzhan.com
 .shzq.com
 .shzsun.com
 .si-en.com
@@ -52824,7 +52667,6 @@ www4-static.gog-statics.com
 .silverlighter.net
 .silversand.net
 .sim.djicdn.com
-.simapple.com
 .simayi.org
 .simba.pro
 .simcf.cc
@@ -52923,7 +52765,6 @@ www4-static.gog-statics.com
 .sinoevin.com
 .sinofo.com
 .sinofsx.com
-.sinograin.com
 .sinohb.com
 .sinohotel.com
 .sinohowe.com
@@ -53555,6 +53396,7 @@ www4-static.gog-statics.com
 .sofun.com
 .sogaa.net
 .sogame8.com
+.sogeci.net
 .sogimall.net
 .sogo.com
 .sogoke.com
@@ -54062,7 +53904,6 @@ www4-static.gog-statics.com
 .ssnn.net
 .ssofair.com
 .ssoomm.com
-.ssp-kc.com
 .ssp86.com
 .sspaas.com
 .sspai.com
@@ -54267,7 +54108,6 @@ www4-static.gog-statics.com
 .strongcms.net
 .strongled.com
 .stswjx.com
-.sttbwl.com
 .studa.net
 .studentboss.com
 .studioartiz.com
@@ -54313,6 +54153,7 @@ www4-static.gog-statics.com
 .suanbanyun.com
 .suandao.com
 .suanfazu.com
+.suangtianw.com
 .suanguajie.com
 .suanisp.com
 .suanjuzi.com
@@ -54669,7 +54510,6 @@ www4-static.gog-statics.com
 .swaeab.com
 .swakopuranium.com
 .swang8.com
-.swanrov.com
 .swansea86.com
 .swansonchina.com
 .swap.wang
@@ -54870,7 +54710,6 @@ www4-static.gog-statics.com
 .syhxnt.com
 .syitgz.com
 .syitu.com
-.syjcxs.com
 .syjiancai.com
 .syjkqzw.com
 .sykong.com
@@ -55364,7 +55203,6 @@ www4-static.gog-statics.com
 .taitaiblog.com
 .taitaikg.com
 .taiwandao.tw
-.taiwei.org
 .taixingren.com
 .taixsw.com
 .taiyainfo.com
@@ -56027,7 +55865,6 @@ www4-static.gog-statics.com
 .teuhui.com
 .tex68.com
 .texclo.net
-.texfox.com
 .text.wiki
 .tezhengma.com
 .tezhongzhuangbei.com
@@ -56135,7 +55972,6 @@ www4-static.gog-statics.com
 .thetigerhood.com
 .thetongji.com
 .thetype.cloud
-.thevarietygames.com
 .thewowa.com
 .thexnode.com
 .theyun.com
@@ -56206,7 +56042,6 @@ www4-static.gog-statics.com
 .ti-solar.com
 .ti98.com
 .tian10.com
-.tian11.com
 .tianan-cyber.com
 .tiananmenlvyou.com
 .tianapi.com
@@ -56301,7 +56136,6 @@ www4-static.gog-statics.com
 .tianshuge.com
 .tiansin.com
 .tiantailaw.com
-.tiantang520.com
 .tiantang6.com
 .tiantangyingshi.tv
 .tianti.com
@@ -56316,6 +56150,7 @@ www4-static.gog-statics.com
 .tiantianquce.com
 .tiantianqutao.com
 .tiantianring.com
+.tiantiansoft.com
 .tiantiantiao.com
 .tiantianxiaoshuo.com
 .tiantianxuexi.com
@@ -57316,7 +57151,6 @@ www4-static.gog-statics.com
 .tstdtz.com
 .tstrs.me
 .tsu.tw
-.tsuiway.com
 .tsw18.com
 .tswuby.com
 .tsxcx.xyz
@@ -57417,6 +57251,7 @@ www4-static.gog-statics.com
 .ttuu.com
 .ttvdo.com
 .ttwanjia.com
+.ttwebview.com
 .ttwg.net
 .ttwoyun.com
 .ttwx.com
@@ -57437,7 +57272,6 @@ www4-static.gog-statics.com
 .ttysq.com
 .ttyyuuoo.com
 .ttz.com
-.ttzbb.com
 .ttzhushou.com
 .ttzw.com
 .ttzw.tv
@@ -57519,7 +57353,6 @@ www4-static.gog-statics.com
 .tui18.com
 .tui56.com
 .tuiabq.com
-.tuiapple.com
 .tuiar.com
 .tuiayonghu.com
 .tuibamboo.com
@@ -57536,6 +57369,7 @@ www4-static.gog-statics.com
 .tuifeiapi.com
 .tuifish.com
 .tuifrog.com
+.tuiguangdns.com
 .tuiguangpingtai.com
 .tuijianshu.net
 .tuijie.cc
@@ -57745,6 +57579,7 @@ www4-static.gog-statics.com
 .tvmao.com
 .tvmcloud.com
 .tvmining.com
+.tvn.cc
 .tvoao.com
 .tvos.com
 .tvroms.com
@@ -57767,7 +57602,6 @@ www4-static.gog-statics.com
 .tweakcube.com
 .twguozao.com
 .twh5.com
-.twinasia.com
 .twinkleunion.com
 .twinsenliang.net
 .twlkbt.com
@@ -57931,7 +57765,6 @@ www4-static.gog-statics.com
 .tzfeize.xyz
 .tzfuke.com
 .tzgcjie.com
-.tzgwifi.net
 .tzhealth.com
 .tzhwcc.com
 .tzidc.com
@@ -58476,7 +58309,6 @@ www4-static.gog-statics.com
 .upx8.com
 .upyun.com
 .upzxt.com
-.uqblog.com
 .uqche.com
 .uqd1.net
 .uqee.com
@@ -58943,7 +58775,6 @@ www4-static.gog-statics.com
 .veryhuo.com
 .veryide.com
 .veryitman.com
-.verymaids.com
 .veryns.com
 .veryol.com
 .verypan.com
@@ -59050,7 +58881,6 @@ www4-static.gog-statics.com
 .vimiy.com
 .vimjc.com
 .vimlinux.com
-.vimnote.com
 .vims04.com
 .vimsky.com
 .vimsucks.com
@@ -59119,7 +58949,6 @@ www4-static.gog-statics.com
 .vipshopyao.com
 .vipsinaapp.com
 .vipsmt.com
-.vipspark.com
 .vipstatic.com
 .vipstore.com
 .viptail.com
@@ -59289,7 +59118,6 @@ www4-static.gog-statics.com
 .voovlive.com
 .voovmeeting.com
 .vortexfun.com
-.vosent.com
 .vote8.cc
 .vote8.com
 .vp3u.com
@@ -59383,7 +59211,6 @@ www4-static.gog-statics.com
 .vspk.com
 .vspk.net
 .vsppt.com
-.vspsa.com
 .vsread.com
 .vst5.com
 .vstab.com
@@ -59562,7 +59389,6 @@ www4-static.gog-statics.com
 .waigame.com
 .waigf.com
 .waiguofang.com
-.waiguomovie.com
 .waihui50.com
 .waihui888.com
 .waihuigu.net
@@ -59654,7 +59480,6 @@ www4-static.gog-statics.com
 .wandouip.com
 .wandoujia.com
 .wandouys.com
-.wandu.cc
 .wanfangdata.com
 .wanfangqikan.com
 .wanfangtech.com
@@ -59688,7 +59513,6 @@ www4-static.gog-statics.com
 .wangdaileida.com
 .wangdainengliang.com
 .wangdaishikong.com
-.wangdaizao.com
 .wangdaizhijia.com
 .wangdalao.com
 .wangdali.net
@@ -59794,7 +59618,6 @@ www4-static.gog-statics.com
 .wangyuegame.com
 .wangyutang.com
 .wangyuwang.com
-.wangyuxiong.com
 .wangzhan123.net
 .wangzhan360.com
 .wangzhan6.com
@@ -60037,6 +59860,7 @@ www4-static.gog-statics.com
 .wdaveh5game.com
 .wddcn.com
 .wddream.com
+.wddun.com
 .wdfangyi.com
 .wdfok.com
 .wdfxw.net
@@ -60102,6 +59926,7 @@ www4-static.gog-statics.com
 .weartrends.com
 .weasing.com
 .weather.com
+.weatherat.com
 .weathercn.com
 .weatherdt.com
 .weatherol.com
@@ -60415,7 +60240,6 @@ www4-static.gog-statics.com
 .weixiangshe.com
 .weixianmanbu.com
 .weixianzhuan.com
-.weixiaodian.com
 .weixiaoduo.com
 .weixiaohan.com
 .weixiaotong.com
@@ -60698,6 +60522,7 @@ www4-static.gog-statics.com
 .wetouch.net
 .wetruetech.com
 .wetu.me
+.wetv.vip
 .wewean.com
 .wewen.io
 .wex5.com
@@ -60878,7 +60703,6 @@ www4-static.gog-statics.com
 .whgmbwg.com
 .whgmq.com
 .whgmxy.com
-.whgnjt.com
 .whgszx.com
 .whgtgh.com
 .whguo.com
@@ -61300,7 +61124,6 @@ www4-static.gog-statics.com
 .winkey17.com
 .winkingworks.com
 .winksi.com
-.winliuxq.com
 .winmen.net
 .winndoo.com
 .winner9.com
@@ -61313,7 +61136,6 @@ www4-static.gog-statics.com
 .winshang.com
 .winshangdata.com
 .winsing.net
-.winsoso.com
 .wintalent.com
 .winteam500.com
 .winterchen.com
@@ -61332,7 +61154,6 @@ www4-static.gog-statics.com
 .wio2o.com
 .wireless-driver.com
 .wirelesschina-summit.com
-.wirelessqa.com
 .wisburg.com
 .wisder.net
 .wisdoing.com
@@ -61530,7 +61351,6 @@ www4-static.gog-statics.com
 .wmsub.com
 .wmton.com
 .wmtp.net
-.wmtth.com
 .wmtxt.com
 .wmupd.com
 .wmvideo.com
@@ -61766,7 +61586,6 @@ www4-static.gog-statics.com
 .worldscientific.com
 .worldsocks.com
 .worlduc.com
-.worldui.com
 .worldwarner.com
 .worldwayhk.com
 .worldwu.com
@@ -61817,7 +61636,6 @@ www4-static.gog-statics.com
 .wowsai.com
 .wowys.com
 .woxian.com
-.woxianhua.com
 .woxiaoyun.com
 .woxihuan.com
 .woxiu.com
@@ -62050,7 +61868,6 @@ www4-static.gog-statics.com
 .wudangshan.com
 .wudao.com
 .wudaotv.com
-.wudayy.com
 .wudejia.com
 .wudicdn.cc
 .wudku.com
@@ -62174,7 +61991,6 @@ www4-static.gog-statics.com
 .wuseng.com
 .wuseng.net
 .wuseyun.com
-.wushandx.com
 .wushang.com
 .wushangplaza.com
 .wushen.com
@@ -62258,6 +62074,7 @@ www4-static.gog-statics.com
 .wvshare.com
 .ww2bbs.net
 .wwaaffxx.com
+.wwc-blog.com
 .wwe008.com
 .wwenglish.com
 .wwenglish.org
@@ -62334,7 +62151,6 @@ www4-static.gog-statics.com
 .wwwimages2.adobe.com
 .wwwku.com
 .wwwljw408.com
-.wwwquan.com
 .wwwtbk.com
 .wwwwang.com
 .wwwwww.vip
@@ -62567,7 +62383,6 @@ www4-static.gog-statics.com
 .x821.com
 .x83zw.com
 .x86android.com
-.x88dushu.com
 .xa-online.com
 .xa.com
 .xa189.net
@@ -62624,7 +62439,6 @@ www4-static.gog-statics.com
 .xaqdrs.com
 .xaqindao.com
 .xaqxs.com
-.xaqxslzp.com
 .xaredian.com
 .xargin.com
 .xasff.com
@@ -62635,7 +62449,6 @@ www4-static.gog-statics.com
 .xasqw.com
 .xasrc.com
 .xaszjf.com
-.xaszw.com
 .xatao029.com
 .xatcm.org
 .xatielu.com
@@ -62883,7 +62696,6 @@ www4-static.gog-statics.com
 .xevddy.com
 .xeylon.com
 .xf-fund.com
-.xf-tc.com
 .xf-world.org
 .xf-yun.com
 .xf.com
@@ -62966,7 +62778,6 @@ www4-static.gog-statics.com
 .xgslb.net
 .xgt2014.com
 .xgtex.com
-.xguox.me
 .xgv5.com
 .xgwx.net
 .xgxedu.com
@@ -63000,7 +62811,6 @@ www4-static.gog-statics.com
 .xhidc.com
 .xhj.com
 .xhj88.com
-.xhjdwp.com
 .xhjingling.com
 .xhlgfsc.com
 .xhma.com
@@ -63773,6 +63583,7 @@ www4-static.gog-statics.com
 .xinfushe.com
 .xing-yan.com
 .xing008.com
+.xing73.com
 .xingaiming.com
 .xingames.com
 .xingbangip.com
@@ -63919,6 +63730,7 @@ www4-static.gog-statics.com
 .xinlinghuayuan.com
 .xinlingletu.com
 .xinlixue525.com
+.xinluex.com
 .xinluobo.com
 .xinlvtu.com
 .xinm123.com
@@ -64033,7 +63845,6 @@ www4-static.gog-statics.com
 .xinyitt.com
 .xinyo100.com
 .xinyongbuy.com
-.xinyongkazhongxin.com
 .xinyongqingdao.com
 .xinyou.com
 .xinyour.com
@@ -64288,6 +64099,7 @@ www4-static.gog-statics.com
 .xjwork.com
 .xjwyglw.com
 .xjxbx.com
+.xjxsjyy.com
 .xjxy.com
 .xjy415.net
 .xjyaxin.com
@@ -64573,7 +64385,6 @@ www4-static.gog-statics.com
 .xoyue.com
 .xp002.com
 .xp5.com
-.xp510.com
 .xp6000.com
 .xp666.com
 .xp74.com
@@ -64627,7 +64438,6 @@ www4-static.gog-statics.com
 .xqyz.net
 .xrcch.com
 .xrccp.com
-.xrcgschool.com
 .xreacloud.com
 .xredu.com
 .xrender.com
@@ -65155,7 +64965,6 @@ www4-static.gog-statics.com
 .xxxmeng.com
 .xxxxxbbs.com
 .xxxzzlm.org
-.xxy168.com
 .xxycw.com
 .xxyhzd.com
 .xxzdpf.com
@@ -65356,7 +65165,6 @@ www4-static.gog-statics.com
 .yac8.net
 .yach.me
 .yadgen.com
-.yadian666.com
 .yadingchi.com
 .yadingtour.com
 .yadongnaicai.com
@@ -65424,7 +65232,6 @@ www4-static.gog-statics.com
 .yangguanjun.com
 .yangguiweihuo.com
 .yanghua.com
-.yanghua.net
 .yanghuogo.com
 .yangjian.me
 .yangjie.li
@@ -65491,7 +65298,6 @@ www4-static.gog-statics.com
 .yangzw.vip
 .yanhaijing.com
 .yanhao.site
-.yanhe-project.com
 .yanjiangwang.com
 .yanjiao.com
 .yanjiao.net
@@ -65686,7 +65492,6 @@ www4-static.gog-statics.com
 .ychromedgeie.com
 .ychxie.com
 .ychxiex.com
-.ycie.org
 .ycig.com
 .ycigilink.com
 .yciyun.com
@@ -65953,7 +65758,6 @@ www4-static.gog-statics.com
 .ygwenxue.com
 .ygycwx.com
 .ygym.org
-.yh2007.com
 .yh21job.com
 .yh300.vip
 .yh31.com
@@ -65970,6 +65774,7 @@ www4-static.gog-statics.com
 .yhdm.io
 .yhdm.tv
 .yhdns.net
+.yhdtns.com
 .yhetent.com
 .yhfx.info
 .yhgo.wang
@@ -66079,7 +65884,6 @@ www4-static.gog-statics.com
 .yidianzhidao.com
 .yidianzixun.com
 .yidianzx.com
-.yidijie.com
 .yidin.net
 .yidingsz.com
 .yidmall.com
@@ -66173,7 +65977,6 @@ www4-static.gog-statics.com
 .yijiaren888.com
 .yijie.com
 .yijiebuyi.com
-.yijied.com
 .yijiedai.com
 .yijiexiaomin.com
 .yijinghong.com
@@ -66532,7 +66335,6 @@ www4-static.gog-statics.com
 .yixao.com
 .yixi.tv
 .yixia.com
-.yixiangzhan.com
 .yixiaoba.com
 .yixiaoxi.com
 .yixie8.com
@@ -66818,7 +66620,6 @@ www4-static.gog-statics.com
 .ynguangsui.com
 .yngw518.com
 .ynhanfu.com
-.ynhbbxg.com
 .ynhjpf.com
 .ynhl.net
 .ynho.com
@@ -66839,7 +66640,6 @@ www4-static.gog-statics.com
 .ynshijian.com
 .ynsjg.com
 .ynteng.com
-.yntlgs.com
 .ynwin.com
 .ynxr.com
 .ynxxb.com
@@ -66951,7 +66751,6 @@ www4-static.gog-statics.com
 .yonyouup.com
 .yoo-hn.com
 .yoodb.com
-.yoodoing.com
 .yooek.com
 .yooerjia.com
 .yoohouse.com
@@ -67249,7 +67048,6 @@ www4-static.gog-statics.com
 .youxueke.com
 .youyacao.com
 .youyanchu.com
-.youyangyc.com
 .youyannet.com
 .youyikeji666.com
 .youyilm.com
@@ -68213,7 +68011,6 @@ www4-static.gog-statics.com
 .yxss.com
 .yxsss.com
 .yxstudy.net
-.yxszyy.com
 .yxt-tattoo.com
 .yxt.com
 .yxt521.com
@@ -68312,7 +68109,6 @@ www4-static.gog-statics.com
 .yytingli.com
 .yytt2012.com
 .yytxt.com
-.yytzw.com
 .yyuap.com
 .yyuasa.com
 .yywlsj.com
@@ -68843,7 +68639,6 @@ www4-static.gog-statics.com
 .zgjf168.com
 .zgjhjy.com
 .zgjiemeng.com
-.zgjingshuiqi.com
 .zgjinsu.com
 .zgjjzyjy.org
 .zgjm.net
@@ -68945,6 +68740,7 @@ www4-static.gog-statics.com
 .zgwygl.org
 .zgxcfx.com
 .zgxga.com
+.zgxht.com
 .zgxk.org
 .zgxqwqh.com
 .zgxrjy.com
@@ -69115,7 +68911,6 @@ www4-static.gog-statics.com
 .zhanzhang.net
 .zhanzhangwo.com
 .zhao163.com
-.zhaoapple.com
 .zhaobeijing.com
 .zhaobiao.info
 .zhaobuxiu.com
@@ -69459,7 +69254,6 @@ www4-static.gog-statics.com
 .zhimoe.com
 .zhineng6.com
 .zhinengdayi.com
-.zhinengfun.com
 .zhinengshe.com
 .zhinengxia.com
 .zhinet.com
@@ -69618,7 +69412,6 @@ www4-static.gog-statics.com
 .zhongfu.net
 .zhongguancun.com
 .zhongguobaiyin.com
-.zhongguobihua.com
 .zhongguofeng.com
 .zhongguohao123.com
 .zhongguohuo.com
@@ -69673,7 +69466,6 @@ www4-static.gog-statics.com
 .zhongmeiart.com
 .zhongmian.com
 .zhongmingmao.me
-.zhongmuzhijia.com
 .zhongniu.com
 .zhongniunongmu.com
 .zhongpaiwang.com
@@ -69854,7 +69646,6 @@ www4-static.gog-statics.com
 .zhubo123.com
 .zhubogu.com
 .zhuboqiang.com
-.zhuce.la
 .zhuceshenzhengongsi.com
 .zhucexianggang.com
 .zhuceyou.com
@@ -70231,7 +70022,6 @@ www4-static.gog-statics.com
 .zj96596.com
 .zjabank.com
 .zjautoparts.com
-.zjaxmc.com
 .zjbiz.net
 .zjbles.com
 .zjbyte.com
@@ -70411,6 +70201,7 @@ www4-static.gog-statics.com
 .zkk7.com
 .zkl2333.com
 .zknysp.com
+.zkoffcn.com
 .zkread.com
 .zkroom.com
 .zksoftwaresz.com
@@ -70471,6 +70262,7 @@ www4-static.gog-statics.com
 .zm1717.com
 .zmapp.com
 .zmaxhotels.cc
+.zmccx.com
 .zmctc.com
 .zmdfdc.com
 .zmdhdyc.com
@@ -70495,7 +70287,6 @@ www4-static.gog-statics.com
 .zmnedu.com
 .zmnoa.com
 .zmnrz.com
-.zmo5.com
 .zmobuy.com
 .zmonster.me
 .zmpal.com
@@ -70736,7 +70527,6 @@ www4-static.gog-statics.com
 .zsbit.com
 .zsc.io
 .zscm8.com
-.zsdaoyi.com
 .zsdk.cc
 .zsdlw.com
 .zsemall.com
@@ -70745,7 +70535,6 @@ www4-static.gog-statics.com
 .zsezt.com
 .zsfund.com
 .zsgd.com
-.zsgdoor.com
 .zsglrj.com
 .zsgoodlighting.com
 .zsh.com
@@ -70902,7 +70691,6 @@ www4-static.gog-statics.com
 .zuiku.com
 .zuikzy.com
 .zuilingxian.com
-.zuilizhi.net
 .zuilot.com
 .zuimeia.com
 .zuimeiqidai.com
@@ -71307,7 +71095,6 @@ www4-static.gog-statics.com
 .zzssjx.com
 .zzsteel.com
 .zzstep.com
-.zzt5.com
 .zzt9.com
 .zztline.com
 .zztoutiao.net
