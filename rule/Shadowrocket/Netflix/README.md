@@ -6,13 +6,11 @@
 
 定时爬取互联网上开源的Netflix分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-
-
-最后检查时间：2021-03-07 14:23:20.707399。
+最后检查时间：2021-03-24 16:05:00.531360。
 
 ## 规则统计
 
-总计规则：42 条。
+总计规则：43 条。
 
 各类型规则统计：
 
@@ -21,7 +19,7 @@
 | USER-AGENT | 1 |
 | DOMAIN-SUFFIX | 18 |
 | IP-CIDR | 20 |
-| DOMAIN-KEYWORD | 2 |
+| DOMAIN-KEYWORD | 3 |
 | DOMAIN | 1 |
 ## 配置说明
 
@@ -42,7 +40,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 
 当前分流规则，未包含其他子规则。
-
 
 
 Netflix分流规则，与本项目其他分流规则没有重复。

@@ -1,12 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-07 14:22:23.820543
-# DOMAIN: 19
-# DOMAIN-SUFFIX: 3001
-# DOMAIN-KEYWORD: 3
-# TOTAL: 3023
-data.mistat.xiaomi.com
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-03-24 16:03:44.560947
+# DOMAIN-SUFFIX: 3026
+# DOMAIN: 21
+# TOTAL: 3047
+api.talkingdata.com
 hm.baidu.com
 hmma.baidu.com
 js.users.51.la
@@ -20,6 +19,8 @@ mtrace.qq.com
 safebrowsing.googleapis.com
 safebrowsing.urlsec.qq.com
 track.58.com
+track.tenjin.com
+track.tenjin.io
 tracking.intl.miui.com
 tracklog.58.com
 wc.51.la
@@ -176,6 +177,7 @@ zgsdk.zhugeio.com
 .adc.api.nine.com.au
 .adc.nine.com.au
 .adgeo.163.com
+.adjust.com
 .adlog.com.com
 .ads-trk.vidible.tv
 .adtm.chip.de
@@ -801,6 +803,7 @@ zgsdk.zhugeio.com
 .countly.stackvaults.com
 .country.yepshare.com
 .coup7cold.com
+.cpatrk.net
 .cpgo.avatacar.com
 .cpt.itv.com
 .cpx.golem.de
@@ -1341,6 +1344,7 @@ zgsdk.zhugeio.com
 .kinesisproxy.hearstlabs.com
 .kitchen.juicer.cc
 .klaviyo.map.fastly.net
+.kochava.com
 .kota3chat.com
 .kpr2exp21.com
 .kropka.onet.pl
@@ -1497,6 +1501,7 @@ zgsdk.zhugeio.com
 .marketing.net.jumia.com.ng
 .marketing.nodesource.com
 .marketing.tr.netsalesmedia.pl
+.marketo.com
 .marx7loki.com
 .mas.nth.ch
 .mass1soma.com
@@ -1580,6 +1585,7 @@ zgsdk.zhugeio.com
 .mms.theroot.com
 .mms.wwe.com
 .mo.moonpig.com
+.mobileapptracking.com
 .mon-com-01.com
 .monitor.ebay.com
 .mormont.gamer-network.net
@@ -1920,6 +1926,7 @@ zgsdk.zhugeio.com
 .rt.flix360.com
 .rt.prnewswire.com
 .rta2.metro.co.uk
+.rtbasia.com
 .rtg-endpoint.global.ssl.fastly.net
 .rtn.thestar.com
 .rtt.campanja.com
@@ -1969,6 +1976,7 @@ zgsdk.zhugeio.com
 .scluster3.cliphunter.com
 .scnt.rambler.ru
 .scontent.services.tvn.pl
+.scorecardresearch.com
 .scounter.rambler.ru
 .scout.lexisnexis.com
 .scout.rollcall.com
@@ -2355,10 +2363,12 @@ zgsdk.zhugeio.com
 .sugar.gameforge.com
 .sugh8yami.com
 .sugs.m.sm.cn
+.sumologic.com
 .supertraders.club
 .supertraders.info
 .survey.interquest.com
 .surveys.cnet.com
+.survicate.com
 .svr007phz.com
 .swat8toot.com
 .sy.amebame.com
@@ -2444,6 +2454,7 @@ zgsdk.zhugeio.com
 .tag.shopping-feed.com
 .tag.sonymusic.com
 .tag.triboomedia.it
+.tagcommander.com
 .tagger.ope.scmp.com
 .tagger.opecloud.com
 .tagm.tchibo.de
@@ -2458,8 +2469,14 @@ zgsdk.zhugeio.com
 .tags.refinery89.com
 .tagtracking.vibescm.com
 .tagx.nytimes.com
+.tailtarget.com
+.talkingdata.net
 .tank3pull.com
 .tantrumall.club
+.tapad.com
+.tapfiliate.com
+.tapinfluence.com
+.tapstream.com
 .target.mirtesen.ru
 .target.mixi.media
 .target.nejm.org
@@ -2488,6 +2505,7 @@ zgsdk.zhugeio.com
 .tdf1.vente-unique.pt
 .te.mytoys.de
 .te.supportfreecontent.com
+.tealiumiq.com
 .team8save.com
 .ted.metro.co.uk
 .telemetrics.klaviyo.com
@@ -2499,6 +2517,7 @@ zgsdk.zhugeio.com
 .telemetry.tableausoftware.com
 .telemetry.tradingview.com
 .tempo.inc.com
+.tend.io
 .tent0mown.com
 .teralog.techhub.co.kr
 .tesla.oscaro.com
@@ -2540,6 +2559,7 @@ zgsdk.zhugeio.com
 .tp.deawm.com
 .tp.ranker.com
 .tpa7.iahorro.com
+.tpctrust.com
 .tpx.tesseradigital.com
 .tr.bt.matrixspa.it
 .tr.cloud-media.fr
@@ -2795,6 +2815,7 @@ zgsdk.zhugeio.com
 .tracking1.brandmentions.com
 .tracking2.channeladvisor.com
 .trackingapi.cloudapp.net
+.trackingio.com
 .trackjay.cool3c.com
 .trackla.stackla.com
 .trackpm.shop2market.com
@@ -2814,6 +2835,7 @@ zgsdk.zhugeio.com
 .trckr.nordiskemedier.dk
 .trecker.aklamio.com
 .tremorhub.com
+.tremormedia.com
 .trends.newsmaxwidget.com
 .trezor.efscle.com
 .trf.intuitwebsites.com
@@ -2983,7 +3005,10 @@ zgsdk.zhugeio.com
 .wivo2gaza.com
 .wkctj.baidu.com
 .wla.vivaldi.com
+.woopra.com
+.wootric.com
 .wordc.ga
+.wowanalytics.co.uk
 .wph2.destinia.us
 .wren.condenastdigital.com
 .ws.yellowpages.ca
@@ -3021,6 +3046,7 @@ zgsdk.zhugeio.com
 .zion.api.cnn.io
 .zminer.zaloapp.com
 .znq9.destinia.mx
+.zoomanalytics.co
 .zrw1.destinia.jp
 .zs.dhl.de
 .zsi7.destinia.do

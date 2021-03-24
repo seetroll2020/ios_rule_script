@@ -1,7 +1,7 @@
 #!name=Global MITM
-#!desc=最后更新时间 2021-03-07 14:22:20.025124
+#!desc=最后更新时间 2021-03-24 16:03:40
 #!author=blackmatrix7
-#!github=
+#!repo=
 #!mitm=1
 
 [MITM]

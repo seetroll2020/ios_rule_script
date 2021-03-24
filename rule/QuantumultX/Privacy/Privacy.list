@@ -1,12 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-07 14:22:21.907733
-# HOST: 19
-# HOST-SUFFIX: 3001
-# HOST-KEYWORD: 3
-# TOTAL: 3023
-HOST,data.mistat.xiaomi.com,Privacy
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-03-24 16:03:42.143112
+# HOST-SUFFIX: 3026
+# HOST: 21
+# TOTAL: 3047
+HOST,api.talkingdata.com,Privacy
 HOST,hm.baidu.com,Privacy
 HOST,hmma.baidu.com,Privacy
 HOST,js.users.51.la,Privacy
@@ -20,6 +19,8 @@ HOST,mtrace.qq.com,Privacy
 HOST,safebrowsing.googleapis.com,Privacy
 HOST,safebrowsing.urlsec.qq.com,Privacy
 HOST,track.58.com,Privacy
+HOST,track.tenjin.com,Privacy
+HOST,track.tenjin.io,Privacy
 HOST,tracking.intl.miui.com,Privacy
 HOST,tracklog.58.com,Privacy
 HOST,wc.51.la,Privacy
@@ -176,6 +177,7 @@ HOST-SUFFIX,adc.9news.com.au,Privacy
 HOST-SUFFIX,adc.api.nine.com.au,Privacy
 HOST-SUFFIX,adc.nine.com.au,Privacy
 HOST-SUFFIX,adgeo.163.com,Privacy
+HOST-SUFFIX,adjust.com,Privacy
 HOST-SUFFIX,adlog.com.com,Privacy
 HOST-SUFFIX,ads-trk.vidible.tv,Privacy
 HOST-SUFFIX,adtm.chip.de,Privacy
@@ -801,6 +803,7 @@ HOST-SUFFIX,counters.freewebs.com,Privacy
 HOST-SUFFIX,countly.stackvaults.com,Privacy
 HOST-SUFFIX,country.yepshare.com,Privacy
 HOST-SUFFIX,coup7cold.com,Privacy
+HOST-SUFFIX,cpatrk.net,Privacy
 HOST-SUFFIX,cpgo.avatacar.com,Privacy
 HOST-SUFFIX,cpt.itv.com,Privacy
 HOST-SUFFIX,cpx.golem.de,Privacy
@@ -1341,6 +1344,7 @@ HOST-SUFFIX,kilo6alga.com,Privacy
 HOST-SUFFIX,kinesisproxy.hearstlabs.com,Privacy
 HOST-SUFFIX,kitchen.juicer.cc,Privacy
 HOST-SUFFIX,klaviyo.map.fastly.net,Privacy
+HOST-SUFFIX,kochava.com,Privacy
 HOST-SUFFIX,kota3chat.com,Privacy
 HOST-SUFFIX,kpr2exp21.com,Privacy
 HOST-SUFFIX,kropka.onet.pl,Privacy
@@ -1497,6 +1501,7 @@ HOST-SUFFIX,marketing.kalahari.net,Privacy
 HOST-SUFFIX,marketing.net.jumia.com.ng,Privacy
 HOST-SUFFIX,marketing.nodesource.com,Privacy
 HOST-SUFFIX,marketing.tr.netsalesmedia.pl,Privacy
+HOST-SUFFIX,marketo.com,Privacy
 HOST-SUFFIX,marx7loki.com,Privacy
 HOST-SUFFIX,mas.nth.ch,Privacy
 HOST-SUFFIX,mass1soma.com,Privacy
@@ -1580,6 +1585,7 @@ HOST-SUFFIX,mms.syracuse.com,Privacy
 HOST-SUFFIX,mms.theroot.com,Privacy
 HOST-SUFFIX,mms.wwe.com,Privacy
 HOST-SUFFIX,mo.moonpig.com,Privacy
+HOST-SUFFIX,mobileapptracking.com,Privacy
 HOST-SUFFIX,mon-com-01.com,Privacy
 HOST-SUFFIX,monitor.ebay.com,Privacy
 HOST-SUFFIX,mormont.gamer-network.net,Privacy
@@ -1920,6 +1926,7 @@ HOST-SUFFIX,rss.tmgrup.com.tr,Privacy
 HOST-SUFFIX,rt.flix360.com,Privacy
 HOST-SUFFIX,rt.prnewswire.com,Privacy
 HOST-SUFFIX,rta2.metro.co.uk,Privacy
+HOST-SUFFIX,rtbasia.com,Privacy
 HOST-SUFFIX,rtg-endpoint.global.ssl.fastly.net,Privacy
 HOST-SUFFIX,rtn.thestar.com,Privacy
 HOST-SUFFIX,rtt.campanja.com,Privacy
@@ -1969,6 +1976,7 @@ HOST-SUFFIX,sclick.baidu.com,Privacy
 HOST-SUFFIX,scluster3.cliphunter.com,Privacy
 HOST-SUFFIX,scnt.rambler.ru,Privacy
 HOST-SUFFIX,scontent.services.tvn.pl,Privacy
+HOST-SUFFIX,scorecardresearch.com,Privacy
 HOST-SUFFIX,scounter.rambler.ru,Privacy
 HOST-SUFFIX,scout.lexisnexis.com,Privacy
 HOST-SUFFIX,scout.rollcall.com,Privacy
@@ -2355,10 +2363,12 @@ HOST-SUFFIX,subpixel.4players.de,Privacy
 HOST-SUFFIX,sugar.gameforge.com,Privacy
 HOST-SUFFIX,sugh8yami.com,Privacy
 HOST-SUFFIX,sugs.m.sm.cn,Privacy
+HOST-SUFFIX,sumologic.com,Privacy
 HOST-SUFFIX,supertraders.club,Privacy
 HOST-SUFFIX,supertraders.info,Privacy
 HOST-SUFFIX,survey.interquest.com,Privacy
 HOST-SUFFIX,surveys.cnet.com,Privacy
+HOST-SUFFIX,survicate.com,Privacy
 HOST-SUFFIX,svr007phz.com,Privacy
 HOST-SUFFIX,swat8toot.com,Privacy
 HOST-SUFFIX,sy.amebame.com,Privacy
@@ -2444,6 +2454,7 @@ HOST-SUFFIX,tag.rmp.rakuten.com,Privacy
 HOST-SUFFIX,tag.shopping-feed.com,Privacy
 HOST-SUFFIX,tag.sonymusic.com,Privacy
 HOST-SUFFIX,tag.triboomedia.it,Privacy
+HOST-SUFFIX,tagcommander.com,Privacy
 HOST-SUFFIX,tagger.ope.scmp.com,Privacy
 HOST-SUFFIX,tagger.opecloud.com,Privacy
 HOST-SUFFIX,tagm.tchibo.de,Privacy
@@ -2458,8 +2469,14 @@ HOST-SUFFIX,tags.op-palvelut.fi,Privacy
 HOST-SUFFIX,tags.refinery89.com,Privacy
 HOST-SUFFIX,tagtracking.vibescm.com,Privacy
 HOST-SUFFIX,tagx.nytimes.com,Privacy
+HOST-SUFFIX,tailtarget.com,Privacy
+HOST-SUFFIX,talkingdata.net,Privacy
 HOST-SUFFIX,tank3pull.com,Privacy
 HOST-SUFFIX,tantrumall.club,Privacy
+HOST-SUFFIX,tapad.com,Privacy
+HOST-SUFFIX,tapfiliate.com,Privacy
+HOST-SUFFIX,tapinfluence.com,Privacy
+HOST-SUFFIX,tapstream.com,Privacy
 HOST-SUFFIX,target.mirtesen.ru,Privacy
 HOST-SUFFIX,target.mixi.media,Privacy
 HOST-SUFFIX,target.nejm.org,Privacy
@@ -2488,6 +2505,7 @@ HOST-SUFFIX,tdf1.laredoute.fr,Privacy
 HOST-SUFFIX,tdf1.vente-unique.pt,Privacy
 HOST-SUFFIX,te.mytoys.de,Privacy
 HOST-SUFFIX,te.supportfreecontent.com,Privacy
+HOST-SUFFIX,tealiumiq.com,Privacy
 HOST-SUFFIX,team8save.com,Privacy
 HOST-SUFFIX,ted.metro.co.uk,Privacy
 HOST-SUFFIX,telemetrics.klaviyo.com,Privacy
@@ -2499,6 +2517,7 @@ HOST-SUFFIX,telemetry.soundcloud.com,Privacy
 HOST-SUFFIX,telemetry.tableausoftware.com,Privacy
 HOST-SUFFIX,telemetry.tradingview.com,Privacy
 HOST-SUFFIX,tempo.inc.com,Privacy
+HOST-SUFFIX,tend.io,Privacy
 HOST-SUFFIX,tent0mown.com,Privacy
 HOST-SUFFIX,teralog.techhub.co.kr,Privacy
 HOST-SUFFIX,tesla.oscaro.com,Privacy
@@ -2540,6 +2559,7 @@ HOST-SUFFIX,toruk.tanx.com,Privacy
 HOST-SUFFIX,tp.deawm.com,Privacy
 HOST-SUFFIX,tp.ranker.com,Privacy
 HOST-SUFFIX,tpa7.iahorro.com,Privacy
+HOST-SUFFIX,tpctrust.com,Privacy
 HOST-SUFFIX,tpx.tesseradigital.com,Privacy
 HOST-SUFFIX,tr.bt.matrixspa.it,Privacy
 HOST-SUFFIX,tr.cloud-media.fr,Privacy
@@ -2795,6 +2815,7 @@ HOST-SUFFIX,tracking.wlscripts.net,Privacy
 HOST-SUFFIX,tracking1.brandmentions.com,Privacy
 HOST-SUFFIX,tracking2.channeladvisor.com,Privacy
 HOST-SUFFIX,trackingapi.cloudapp.net,Privacy
+HOST-SUFFIX,trackingio.com,Privacy
 HOST-SUFFIX,trackjay.cool3c.com,Privacy
 HOST-SUFFIX,trackla.stackla.com,Privacy
 HOST-SUFFIX,trackpm.shop2market.com,Privacy
@@ -2814,6 +2835,7 @@ HOST-SUFFIX,trck.spoteffects.net,Privacy
 HOST-SUFFIX,trckr.nordiskemedier.dk,Privacy
 HOST-SUFFIX,trecker.aklamio.com,Privacy
 HOST-SUFFIX,tremorhub.com,Privacy
+HOST-SUFFIX,tremormedia.com,Privacy
 HOST-SUFFIX,trends.newsmaxwidget.com,Privacy
 HOST-SUFFIX,trezor.efscle.com,Privacy
 HOST-SUFFIX,trf.intuitwebsites.com,Privacy
@@ -2983,7 +3005,10 @@ HOST-SUFFIX,wisteria-js.excite.co.jp,Privacy
 HOST-SUFFIX,wivo2gaza.com,Privacy
 HOST-SUFFIX,wkctj.baidu.com,Privacy
 HOST-SUFFIX,wla.vivaldi.com,Privacy
+HOST-SUFFIX,woopra.com,Privacy
+HOST-SUFFIX,wootric.com,Privacy
 HOST-SUFFIX,wordc.ga,Privacy
+HOST-SUFFIX,wowanalytics.co.uk,Privacy
 HOST-SUFFIX,wph2.destinia.us,Privacy
 HOST-SUFFIX,wren.condenastdigital.com,Privacy
 HOST-SUFFIX,ws.yellowpages.ca,Privacy
@@ -3021,11 +3046,9 @@ HOST-SUFFIX,zeus.slader.com,Privacy
 HOST-SUFFIX,zion.api.cnn.io,Privacy
 HOST-SUFFIX,zminer.zaloapp.com,Privacy
 HOST-SUFFIX,znq9.destinia.mx,Privacy
+HOST-SUFFIX,zoomanalytics.co,Privacy
 HOST-SUFFIX,zrw1.destinia.jp,Privacy
 HOST-SUFFIX,zs.dhl.de,Privacy
 HOST-SUFFIX,zsi7.destinia.do,Privacy
 HOST-SUFFIX,zyq2.destinia.sk,Privacy
 HOST-SUFFIX,zz.bdstatic.com,Privacy
-HOST-KEYWORD,log.umeng.com,Privacy
-HOST-KEYWORD,logs.umeng.com,Privacy
-HOST-KEYWORD,logs.umengcloud.com,Privacy

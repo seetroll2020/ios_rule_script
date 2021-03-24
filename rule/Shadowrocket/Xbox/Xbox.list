@@ -1,9 +1,9 @@
 # NAME: Xbox
 # AUTHOR: 
-# GITHUB: 
-# UPDATED: 2021-03-07 14:22:28.618952
-# DOMAIN-SUFFIX: 35
-# TOTAL: 35
+# REPO: 
+# UPDATED: 2021-03-24 16:03:51
+# DOMAIN-SUFFIX: 36
+# TOTAL: 36
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
@@ -37,5 +37,6 @@ DOMAIN-SUFFIX,xboxone.co
 DOMAIN-SUFFIX,xboxone.com
 DOMAIN-SUFFIX,xboxone.eu
 DOMAIN-SUFFIX,xboxplayanywhere.com
+DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv

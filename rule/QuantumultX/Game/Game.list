@@ -1,11 +1,11 @@
 # NAME: Game
 # AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-07 14:22:22.162025
-# HOST-SUFFIX: 483
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-03-24 16:03:43.112015
+# HOST-SUFFIX: 484
 # IP-CIDR: 45
 # HOST-KEYWORD: 4
-# TOTAL: 532
+# TOTAL: 533
 HOST-SUFFIX,100classicbooks.com,Game
 HOST-SUFFIX,ac-pocketcamp.com,Game
 HOST-SUFFIX,amiibo.com,Game
@@ -479,6 +479,7 @@ HOST-SUFFIX,xboxone.co,Game
 HOST-SUFFIX,xboxone.com,Game
 HOST-SUFFIX,xboxone.eu,Game
 HOST-SUFFIX,xboxplayanywhere.com,Game
+HOST-SUFFIX,xboxservices.com,Game
 HOST-SUFFIX,xboxstudios.com,Game
 HOST-SUFFIX,xbx.lv,Game
 HOST-SUFFIX,xdsummit.com,Game

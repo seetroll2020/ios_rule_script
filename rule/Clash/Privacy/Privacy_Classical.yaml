@@ -1,13 +1,12 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-07 14:22:26.185755
-# DOMAIN: 19
-# DOMAIN-SUFFIX: 3001
-# DOMAIN-KEYWORD: 3
-# TOTAL: 3023
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-03-24 16:03:47.432213
+# DOMAIN-SUFFIX: 3026
+# DOMAIN: 21
+# TOTAL: 3047
 payload:
-  - DOMAIN,data.mistat.xiaomi.com
+  - DOMAIN,api.talkingdata.com
   - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
   - DOMAIN,js.users.51.la
@@ -21,6 +20,8 @@ payload:
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN,safebrowsing.urlsec.qq.com
   - DOMAIN,track.58.com
+  - DOMAIN,track.tenjin.com
+  - DOMAIN,track.tenjin.io
   - DOMAIN,tracking.intl.miui.com
   - DOMAIN,tracklog.58.com
   - DOMAIN,wc.51.la
@@ -177,6 +178,7 @@ payload:
   - DOMAIN-SUFFIX,adc.api.nine.com.au
   - DOMAIN-SUFFIX,adc.nine.com.au
   - DOMAIN-SUFFIX,adgeo.163.com
+  - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,adlog.com.com
   - DOMAIN-SUFFIX,ads-trk.vidible.tv
   - DOMAIN-SUFFIX,adtm.chip.de
@@ -802,6 +804,7 @@ payload:
   - DOMAIN-SUFFIX,countly.stackvaults.com
   - DOMAIN-SUFFIX,country.yepshare.com
   - DOMAIN-SUFFIX,coup7cold.com
+  - DOMAIN-SUFFIX,cpatrk.net
   - DOMAIN-SUFFIX,cpgo.avatacar.com
   - DOMAIN-SUFFIX,cpt.itv.com
   - DOMAIN-SUFFIX,cpx.golem.de
@@ -1342,6 +1345,7 @@ payload:
   - DOMAIN-SUFFIX,kinesisproxy.hearstlabs.com
   - DOMAIN-SUFFIX,kitchen.juicer.cc
   - DOMAIN-SUFFIX,klaviyo.map.fastly.net
+  - DOMAIN-SUFFIX,kochava.com
   - DOMAIN-SUFFIX,kota3chat.com
   - DOMAIN-SUFFIX,kpr2exp21.com
   - DOMAIN-SUFFIX,kropka.onet.pl
@@ -1498,6 +1502,7 @@ payload:
   - DOMAIN-SUFFIX,marketing.net.jumia.com.ng
   - DOMAIN-SUFFIX,marketing.nodesource.com
   - DOMAIN-SUFFIX,marketing.tr.netsalesmedia.pl
+  - DOMAIN-SUFFIX,marketo.com
   - DOMAIN-SUFFIX,marx7loki.com
   - DOMAIN-SUFFIX,mas.nth.ch
   - DOMAIN-SUFFIX,mass1soma.com
@@ -1581,6 +1586,7 @@ payload:
   - DOMAIN-SUFFIX,mms.theroot.com
   - DOMAIN-SUFFIX,mms.wwe.com
   - DOMAIN-SUFFIX,mo.moonpig.com
+  - DOMAIN-SUFFIX,mobileapptracking.com
   - DOMAIN-SUFFIX,mon-com-01.com
   - DOMAIN-SUFFIX,monitor.ebay.com
   - DOMAIN-SUFFIX,mormont.gamer-network.net
@@ -1921,6 +1927,7 @@ payload:
   - DOMAIN-SUFFIX,rt.flix360.com
   - DOMAIN-SUFFIX,rt.prnewswire.com
   - DOMAIN-SUFFIX,rta2.metro.co.uk
+  - DOMAIN-SUFFIX,rtbasia.com
   - DOMAIN-SUFFIX,rtg-endpoint.global.ssl.fastly.net
   - DOMAIN-SUFFIX,rtn.thestar.com
   - DOMAIN-SUFFIX,rtt.campanja.com
@@ -1970,6 +1977,7 @@ payload:
   - DOMAIN-SUFFIX,scluster3.cliphunter.com
   - DOMAIN-SUFFIX,scnt.rambler.ru
   - DOMAIN-SUFFIX,scontent.services.tvn.pl
+  - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,scounter.rambler.ru
   - DOMAIN-SUFFIX,scout.lexisnexis.com
   - DOMAIN-SUFFIX,scout.rollcall.com
@@ -2356,10 +2364,12 @@ payload:
   - DOMAIN-SUFFIX,sugar.gameforge.com
   - DOMAIN-SUFFIX,sugh8yami.com
   - DOMAIN-SUFFIX,sugs.m.sm.cn
+  - DOMAIN-SUFFIX,sumologic.com
   - DOMAIN-SUFFIX,supertraders.club
   - DOMAIN-SUFFIX,supertraders.info
   - DOMAIN-SUFFIX,survey.interquest.com
   - DOMAIN-SUFFIX,surveys.cnet.com
+  - DOMAIN-SUFFIX,survicate.com
   - DOMAIN-SUFFIX,svr007phz.com
   - DOMAIN-SUFFIX,swat8toot.com
   - DOMAIN-SUFFIX,sy.amebame.com
@@ -2445,6 +2455,7 @@ payload:
   - DOMAIN-SUFFIX,tag.shopping-feed.com
   - DOMAIN-SUFFIX,tag.sonymusic.com
   - DOMAIN-SUFFIX,tag.triboomedia.it
+  - DOMAIN-SUFFIX,tagcommander.com
   - DOMAIN-SUFFIX,tagger.ope.scmp.com
   - DOMAIN-SUFFIX,tagger.opecloud.com
   - DOMAIN-SUFFIX,tagm.tchibo.de
@@ -2459,8 +2470,14 @@ payload:
   - DOMAIN-SUFFIX,tags.refinery89.com
   - DOMAIN-SUFFIX,tagtracking.vibescm.com
   - DOMAIN-SUFFIX,tagx.nytimes.com
+  - DOMAIN-SUFFIX,tailtarget.com
+  - DOMAIN-SUFFIX,talkingdata.net
   - DOMAIN-SUFFIX,tank3pull.com
   - DOMAIN-SUFFIX,tantrumall.club
+  - DOMAIN-SUFFIX,tapad.com
+  - DOMAIN-SUFFIX,tapfiliate.com
+  - DOMAIN-SUFFIX,tapinfluence.com
+  - DOMAIN-SUFFIX,tapstream.com
   - DOMAIN-SUFFIX,target.mirtesen.ru
   - DOMAIN-SUFFIX,target.mixi.media
   - DOMAIN-SUFFIX,target.nejm.org
@@ -2489,6 +2506,7 @@ payload:
   - DOMAIN-SUFFIX,tdf1.vente-unique.pt
   - DOMAIN-SUFFIX,te.mytoys.de
   - DOMAIN-SUFFIX,te.supportfreecontent.com
+  - DOMAIN-SUFFIX,tealiumiq.com
   - DOMAIN-SUFFIX,team8save.com
   - DOMAIN-SUFFIX,ted.metro.co.uk
   - DOMAIN-SUFFIX,telemetrics.klaviyo.com
@@ -2500,6 +2518,7 @@ payload:
   - DOMAIN-SUFFIX,telemetry.tableausoftware.com
   - DOMAIN-SUFFIX,telemetry.tradingview.com
   - DOMAIN-SUFFIX,tempo.inc.com
+  - DOMAIN-SUFFIX,tend.io
   - DOMAIN-SUFFIX,tent0mown.com
   - DOMAIN-SUFFIX,teralog.techhub.co.kr
   - DOMAIN-SUFFIX,tesla.oscaro.com
@@ -2541,6 +2560,7 @@ payload:
   - DOMAIN-SUFFIX,tp.deawm.com
   - DOMAIN-SUFFIX,tp.ranker.com
   - DOMAIN-SUFFIX,tpa7.iahorro.com
+  - DOMAIN-SUFFIX,tpctrust.com
   - DOMAIN-SUFFIX,tpx.tesseradigital.com
   - DOMAIN-SUFFIX,tr.bt.matrixspa.it
   - DOMAIN-SUFFIX,tr.cloud-media.fr
@@ -2796,6 +2816,7 @@ payload:
   - DOMAIN-SUFFIX,tracking1.brandmentions.com
   - DOMAIN-SUFFIX,tracking2.channeladvisor.com
   - DOMAIN-SUFFIX,trackingapi.cloudapp.net
+  - DOMAIN-SUFFIX,trackingio.com
   - DOMAIN-SUFFIX,trackjay.cool3c.com
   - DOMAIN-SUFFIX,trackla.stackla.com
   - DOMAIN-SUFFIX,trackpm.shop2market.com
@@ -2815,6 +2836,7 @@ payload:
   - DOMAIN-SUFFIX,trckr.nordiskemedier.dk
   - DOMAIN-SUFFIX,trecker.aklamio.com
   - DOMAIN-SUFFIX,tremorhub.com
+  - DOMAIN-SUFFIX,tremormedia.com
   - DOMAIN-SUFFIX,trends.newsmaxwidget.com
   - DOMAIN-SUFFIX,trezor.efscle.com
   - DOMAIN-SUFFIX,trf.intuitwebsites.com
@@ -2984,7 +3006,10 @@ payload:
   - DOMAIN-SUFFIX,wivo2gaza.com
   - DOMAIN-SUFFIX,wkctj.baidu.com
   - DOMAIN-SUFFIX,wla.vivaldi.com
+  - DOMAIN-SUFFIX,woopra.com
+  - DOMAIN-SUFFIX,wootric.com
   - DOMAIN-SUFFIX,wordc.ga
+  - DOMAIN-SUFFIX,wowanalytics.co.uk
   - DOMAIN-SUFFIX,wph2.destinia.us
   - DOMAIN-SUFFIX,wren.condenastdigital.com
   - DOMAIN-SUFFIX,ws.yellowpages.ca
@@ -3022,11 +3047,9 @@ payload:
   - DOMAIN-SUFFIX,zion.api.cnn.io
   - DOMAIN-SUFFIX,zminer.zaloapp.com
   - DOMAIN-SUFFIX,znq9.destinia.mx
+  - DOMAIN-SUFFIX,zoomanalytics.co
   - DOMAIN-SUFFIX,zrw1.destinia.jp
   - DOMAIN-SUFFIX,zs.dhl.de
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-  - DOMAIN-KEYWORD,log.umeng.com
-  - DOMAIN-KEYWORD,logs.umeng.com
-  - DOMAIN-KEYWORD,logs.umengcloud.com
